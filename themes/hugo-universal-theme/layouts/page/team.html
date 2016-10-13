@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+          <link rel="stylesheet" type="text/css" href="/css/component.css" />
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12">
+                        {{ .Content }}
+                        <div>
+                          <div class="main">
+                            <ul id="og-grid" class="og-grid">
+                              {{ range .Site.Params.team }}
+                                <li>
+                                    {{ if .linkedin }}
+                                    <a href="{{.linkedin}}" data-largesrc="{{ .image }}" data-title="{{ .name }}" data-role="{{ .role }}" data-description="{{ .blurb }}">
+                                      <img src="{{ .image }}" alt="{{ .name }}"/>
+                                    </a>
+                                    {{ else }}
+                                    <a href="#" data-largesrc="{{ .image }}" data-title="{{ .name }}" data-role="{{ .role }}" data-description="{{ .blurb }}">
+                                      <img src="{{ .image }}" alt="{{ .name }}"/>
+                                    </a>
+                                    {{ end }}                                    
+                                </li>
+                              {{ end }}
+                            </ul>
+                          </div>                          
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+        {{ partial "footer.html" . }}
+        </div>
+        <!-- /#content -->
+
+        
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/js/modernizr.custom.js"></script>
+    <script src="/js/grid.js"></script>
+    <script>
+      $(function() {
+          Grid.init();
+      });
+    </script>
+  </body>
+</html>
