@@ -63,17 +63,17 @@ paginate = 10
     url  = "/contact/"
     weight = 6
 
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = true
-    search = true
-
 [params.carousel]
     enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
 
 [params.features]
     # enable = true
@@ -116,10 +116,3 @@ paginate = 10
     name = "Thanos Kritharis"
     role = "Captain"
     blurb = "Athanasios (Thanos) is currently in his 3rd year of involvement with Chem-E-Car. He has watched the team grow from 5 dedicated students to the 30+ Organization that it is today. Under his leadership Chem-E-Car has expanded to include innovations in the LNG sector, development of novel forms of rechargeable batteries, and increased public outreach and education on fuel cells and other forms of energy storage. He hopes to further empower even more students in pursuing their passion to develop technologies for the benefit of all."
-
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
-    image = "/img/team/mani.jpg"
-    name = "Mani Massah"
-    role = "Battery Lead"
-    blurb = "Mani is a 4th year chemical engineering student with an interest in electrochemistry. He is working on creating alkaline batteries as an alternative to the zinc air batteries that are currently being used in the car. He has recently become very involved with Chem-E-Car and loves hanging out with the team."
