@@ -1,0 +1,125 @@
+baseurl = "http://www.ubcchemecar.com/"
+title = "UBC Chem-E-Car: The University of British Columbia"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "ubcchemecar"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-63367875-1"
+canonifyurls = true
+# Define the number of posts per page
+paginate = 10
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "UBC Chem-E-Car"
+    about_us =  """
+                <p>UBC Chem-E-Car is a student-driven engineering team that represents the University of British Columbia in the annual AIChE Chem-E-Car competition.</p>
+                <p>Email Us: <b><a href="mailto:info@ubcchemecar.com">info@ubcchemecar.com</a></b></p>
+                """
+    copyright = "Copyright (C) 2016 UBC Chem-E-Car. All rights reserved."
+    date_format = "2006-01-02"
+    logo = "img/logo2.png"
+    address =   """
+                 <p><strong>UBC Chem-E-Car Team</strong>
+                 <br><i>Chemical and Biological Engineering Building</i>
+                 <br>2360 East Mall
+                 <br>Vancouver V6T 1Z3 
+                 <br>British Columbia, <strong>Canada</strong>
+                 </p>
+                """
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+[[params.menu]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[params.menu]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[params.menu]]
+    name = "Sponsors"
+    url  = "/sponsors/"
+    weight = 3
+
+[[params.menu]]
+    name = "Recruitment"
+    url  = "/infopack/"
+    weight = 4
+
+[[params.menu]]
+    name = "Team"
+    url  = "/orgchart/"
+    weight = 5
+
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 6
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    # enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Teams"
+    subtitle = "The UBC Chem-E-Car team consists of 5 main sub-teams with different roles. We have many members who work hard to make the car and all of our side projects a reality! Meet our team leads and learn more about what they do on the team."
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-users"
+    title = "Get more team information"
+    subtitle = "Visit our team page to see all team members and view the team roster"
+    link_url = "#"
+    link_text = "Team Page"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Sponsors"
+    subtitle = "We'd like to thank the following organizations for their kind support and various contributions, without which this project would not have been possible. Please find more information on the great work that they do on our sponsors page."
+
+[params.recent_posts]
+    enable = true
+    title = "Latest and Greatest"
+    subtitle = "Read our articles to learn more about what we are working on. Occasionally, we also share tutorials on electrochemistry, mechanical design, software development and other fun topics that we came across."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/athanasios-kritharis-180693a5"
+    image = "/img/team/thanos.jpg"
+    name = "Thanos Kritharis"
+    role = "Captain"
+    blurb = "Athanasios (Thanos) is currently in his 3rd year of involvement with Chem-E-Car. He has watched the team grow from 5 dedicated students to the 30+ Organization that it is today. Under his leadership Chem-E-Car has expanded to include innovations in the LNG sector, development of novel forms of rechargeable batteries, and increased public outreach and education on fuel cells and other forms of energy storage. He hopes to further empower even more students in pursuing their passion to develop technologies for the benefit of all."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
+    image = "/img/team/mani.jpg"
+    name = "Mani Massah"
+    role = "Battery Lead"
+    blurb = "Mani is a 4th year chemical engineering student with an interest in electrochemistry. He is working on creating alkaline batteries as an alternative to the zinc air batteries that are currently being used in the car. He has recently become very involved with Chem-E-Car and loves hanging out with the team."

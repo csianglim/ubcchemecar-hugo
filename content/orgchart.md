@@ -1,0 +1,116 @@
++++
+title = "Orgchart"
++++
+
+
+<div class="row text-center">
+  <h2>
+    <p>
+      <a href="javascript:initialize('https://docs.google.com/spreadsheets/d/1daLouav56XqtTl2FBI319GwcysiATxwPYG3e6u7QUhI/gviz/tq?')">Admin</a> | 
+      <a href="javascript:initialize('https://docs.google.com/spreadsheets/d/1-xv0UpGCs3OpxpSi7unufpw1BwCxz5k83x9GYJ34RLc/gviz/tq?')">Senior Car</a> | 
+      <a href="javascript:initialize('https://docs.google.com/spreadsheets/d/1HZys1U3JEAJgRUKPLX7Q8i01AvV1l2_STOvVg1lOx10/gviz/tq?')">Junior Car</a> | 
+      <a href="javascript:initialize('https://docs.google.com/spreadsheets/d/1qImsDykMfz-obbMsOQo6f_IW_xmNdtScByEhcnfU3S8/gviz/tq?')">AIChE App</a> | 
+      <a href="javascript:initialize('https://docs.google.com/spreadsheets/d/1I9MOhwVxOCA4Jo_bUX7g2grN7oyxtcRaNMrr2AlNtNc/gviz/tq?')">Flow Battery</a>
+      <br>
+    </p>
+  </h2>
+</div>
+<hr>
+<div id="orgchart_admin"></div>
+<hr>
+
+<style>
+body{
+  line-height: 18px !important;
+}
+table.google-visualization-orgchart-table {
+  border-collapse: inherit;
+}    
+
+.role{
+    font-size: small;
+    color: #1aa;
+}
+</style>
+
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+google.charts.load('current', {'packages' : ['orgchart', 'table']});
+google.charts.setOnLoadCallback(function() { initialize('') });
+
+function initialize(dataLink) {
+  if(dataLink){
+    var dataSourceUrl = dataLink;
+  }
+  else{
+    var dataSourceUrl = 'https://docs.google.com/spreadsheets/d/1daLouav56XqtTl2FBI319GwcysiATxwPYG3e6u7QUhI/gviz/tq?';
+  }
+  
+  var query = new google.visualization.Query(dataSourceUrl + '&headers=1');
+
+  // Send the query with a callback function.
+  query.send(handleQueryResponse);
+}
+
+function handleQueryResponse(response) {
+  // Called when the query response is returned.
+  if (response.isError()) {
+alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+return;
+  }
+
+  var raw_data = response.getDataTable();
+
+  var data = new google.visualization.DataTable();
+  data.addColumn('string', 'Entity');
+  data.addColumn('string', 'ParentEntity');
+  data.addColumn('string', 'ToolTip');
+  data.addColumn('string', 'URL');
+
+  var num_rows = raw_data.getNumberOfRows();
+  for (var i = 0; i < num_rows; i++) {
+var role = raw_data.getValue(i, 0);
+var reportsTo = raw_data.getValue(i,1);
+var name = raw_data.getValue(i,2) != null ? raw_data.getValue(i,2) : '';
+var url = raw_data.getValue(i,3);
+
+data.addRows([[
+  { v: role,
+f: name + "<div class='role'>" + role + "</div>"
+  }, 
+  reportsTo, 
+  name, url]]);
+  }
+
+  var container = document.getElementById('orgchart_admin');
+  var chart = new google.visualization.OrgChart(container);
+  chart.draw(data, {allowHtml:true, 'size': 'large'});
+
+  container.addEventListener('click', function (e) {
+e.preventDefault();
+if (e.target.tagName.toUpperCase() === 'A') {
+  console.log(e.target.href);
+  // window.open(e.target.href, '_blank');
+  // or
+  // location.href = e.target.href;
+} else {
+  var selection = chart.getSelection();
+  if (selection.length > 0) {
+var row = selection[0].row;
+var collapse = (chart.getCollapsedNodes().indexOf(row) == -1);
+chart.collapse(row, collapse);
+  }
+}
+chart.setSelection([]);
+return false;
+  }, false); 
+
+  google.visualization.events.addListener(chart, 'select', function() {
+var current_row = chart.getSelection()[0].row;
+if(data.getValue(current_row,3)){
+   window.open(data.getValue(current_row,3),"_self");
+}
+  });
+}
+</script>

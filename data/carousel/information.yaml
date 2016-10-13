@@ -1,0 +1,12 @@
+weight: 1
+title: "Door's Always Open"
+description: >
+  <ul class="list-style-none">
+    <li>Hey you! Yeah, you!</li>
+    <li>We're always looking for enthusiastic UBC students of all backgrounds and experiences to join us.</li>
+    <li>Read the infopack and sign up today!</li>
+  </ul>
+  <br />
+  <a href="./infopack" class="btn btn-primary" role="button">New Members Infopack</a>
+  <br />
+image: "img/carousel/recruiting.png"

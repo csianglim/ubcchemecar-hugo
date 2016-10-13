@@ -1,0 +1,11 @@
+weight: 2
+title: "Sponsorship Opportunities"
+description: >
+  <ul class="list-style-none">
+     <li>Support UBC student development!</li>
+     <li>We offer attractive sponsorship deals with cool benefits</li>
+   </ul>
+  <br />
+  <a href="./sponsors" class="btn btn-primary" role="button">Sponsor Us</a>  
+  <br /> 
+image: "img/carousel/template-mac.png"
