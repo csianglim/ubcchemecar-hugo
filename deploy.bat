@@ -4,6 +4,9 @@ xcopy c:\Hugo\ubcchemecar.github.io\public\* c:\remote\ubcchemecar.github.io /s 
 @echo off
 set /p msg="Enter msg: "
 @echo on
+git add .
+git commit -am "%msg%"
+git push origin master
 git -C "C:\remote\ubcchemecar.github.io" add .
 git -C "C:\remote\ubcchemecar.github.io" commit -am "%msg%"
 git -C "C:\remote\ubcchemecar.github.io" push origin master
