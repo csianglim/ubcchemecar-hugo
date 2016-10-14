@@ -54,7 +54,7 @@ paginate = 10
 
 [[params.menu]]
     name = "Team"
-    url  = "/orgchart/"
+    url  = "/team/"
     weight = 5
 
 
