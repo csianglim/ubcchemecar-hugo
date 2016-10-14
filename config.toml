@@ -118,8 +118,36 @@ paginate = 10
     blurb = "Athanasios (Thanos) is currently in his 3rd year of involvement with Chem-E-Car. He has watched the team grow from 5 dedicated students to the 30+ Organization that it is today. Under his leadership Chem-E-Car has expanded to include innovations in the LNG sector, development of novel forms of rechargeable batteries, and increased public outreach and education on fuel cells and other forms of energy storage. He hopes to further empower even more students in pursuing their passion to develop technologies for the benefit of all."
 
 [[params.team]]
+    linkedin = "https://ca.linkedin.com/in/shayanrezaie"
+    image = "/img/team/shayan.jpg"
+    name = "Shayan Rezaie"
+    role = "Electrical Team"
+    blurb = "Shayan is a fifth year Engineering physics student who is responsible for designing the schematics and PCB for the Chem-E-Car . He is also involved in developing the code/drivers for the sensors used in this project. Before joining Chem-E-Car, Shayan worked for multiple companies as a hardware engineer developing software and schematics."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/kyle-como-9524b990"
+    image = "/img/team/KyleComo.jpg"
+    name = "Kyle Como"
+    role = "Mechanical Lead"
+    blurb = "I am an undergraduate student in my 3rd year of Mechanical Engineering. My goal is to explore all of the exciting mechanical design options with my teammates and to produce prototypes. Before UBC I worked as a Mechanical Designer for 5 years.I have a diploma as a Mechanical Engineering Technologist in manufacturing from the BCIT and also as a Computer Automated Systems Technician from Thompson Rivers University. I will be conducting 3D modelling courses throughout the school year with the intent of manufacturing and prototyping."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/kirsten-meng-49935bb3"
+    image = "/img/team/kirsten.jpg"
+    name = "Kirsten Meng"
+    role = "Mechanical Team"
+    blurb = "Kirsten is a Mechanical Engineering student! Woohoo!"
+
+[[params.team]]
     linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
     image = "/img/team/mani.jpg"
     name = "Mani Massah"
     role = "Battery Lead"
     blurb = "Mani is a 4th year chemical engineering student with an interest in electrochemistry. He is working on creating alkaline batteries as an alternative to the zinc air batteries that are currently being used in the car. He has recently become very involved with Chem-E-Car and loves hanging out with the team."
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/caitlinLee1.jpg"
+    name = "Caitlin Lee"
+    role = "Mechanical Team"
+    blurb = "Caitlin is a 2nd year chemical engineering student"
