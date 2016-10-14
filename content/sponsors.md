@@ -2,7 +2,10 @@
 title = "Sponsorship"
 +++
 
-> # Under Re-Construction.
+> # Page under re-construction.
 
 ---
 
+## [Sponsorship Package](/docs/UBC_Chem-E-Car_2016-2017.pdf)
+
+----
