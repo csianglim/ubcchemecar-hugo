@@ -109,6 +109,12 @@ paginate = 10
     title = "About Us"
     description = "UBC Chem-E-Car represents The University of British Columbia in the annual American Institute of Chemical Engineers (AIChE) Chem-E-Car competition where we compete with other North American teams. We design, build and test a shoe-box sized car from scratch every year. The process involves building a power system (batteries, fuel cells, supercapacitors etc), selecting a stopping mechanism reaction, designing the circuitry, coding microcontrollers and assembling the mechanical components and car body."
 
+
+[params.sponsorship]
+    title = "Our Valued Supporters"
+    description = "We'd like to thank our sponsors for their kind support and various contributions, without which our student-led projects would not have been possible. As a sponsor, your contributions help fund student development and professional growth for undergraduate students."
+
+
 [params.recent_posts]
     enable = true
     title = "Latest and Greatest"
