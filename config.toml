@@ -122,7 +122,7 @@ paginate = 10
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/athanasios-kritharis-180693a5"
-    image = "/img/team/thanos.jpg"
+    image = "/img/team/2015/thanos.jpg"
     name = "Thanos Kritharis"
     role = "Captain"
     blurb = "Athanasios (Thanos) is currently in his 3rd year of involvement with Chem-E-Car. He has watched the team grow from 5 dedicated students to the 30+ Organization that it is today. Under his leadership Chem-E-Car has expanded to include innovations in the LNG sector, development of novel forms of rechargeable batteries, and increased public outreach and education on fuel cells and other forms of energy storage. He hopes to further empower even more students in pursuing their passion to develop technologies for the benefit of all."

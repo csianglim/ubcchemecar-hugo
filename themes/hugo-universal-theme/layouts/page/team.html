@@ -2,7 +2,7 @@
 <html lang="en">
 
   {{ partial "head.html" . }}
-  
+
   <style>
    h3 {
     font-size: 28px !important;
@@ -35,15 +35,9 @@
                             <ul id="og-grid" class="og-grid">
                               {{ range .Site.Params.team }}
                                 <li>
-                                    {{ if .linkedin }}
-                                    <a href="{{.linkedin}}" data-largesrc="{{ .image }}" data-title="{{ .name }}" data-role="{{ .role }}" data-description="{{ .blurb }}" data-href_desc="<i class='fa fa-linkedin fa-square-o'></i> Connect on LinkedIn">
-                                      <img src="{{ .image }}" alt="{{ .name }}"/>
-                                    </a>
-                                    {{ else }}
-                                    <a href="#" data-largesrc="{{ .image }}" data-title="{{ .name }}" data-role="{{ .role }}" data-description="{{ .blurb }}" data-href_desc="">
-                                      <img src="{{ .image }}" alt="{{ .name }}"/>
-                                    </a>
-                                    {{ end }}                                    
+                                  <a href="{{.linkedin}}" data-largesrc="{{ .image }}" data-title="{{ .name }}" data-role="{{ .role }}" data-description="{{ .blurb }}" data-href_desc="<i class='fa fa-linkedin fa-square-o'></i> LinkedIn">
+                                    <img src="{{ .image }}" alt="{{ .name }}"/>
+                                  </a>                              
                                 </li>
                               {{ end }}
                             </ul>
