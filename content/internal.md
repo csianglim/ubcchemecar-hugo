@@ -14,3 +14,4 @@ title = "Internal Team Links"
 
 ---
 
+> [Regionals Car II Battery Proposal](static/Battery-Proposal-Al-C-Battery.docx)
