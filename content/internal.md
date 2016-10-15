@@ -14,4 +14,4 @@ title = "Internal Team Links"
 
 ---
 
-> [Regionals Car II Battery Proposal](static/Battery-Proposal-Al-C-Battery.docx)
+> [Regionals Car II Battery Proposal](/Battery-Proposal-Al-C-Battery.docx)
