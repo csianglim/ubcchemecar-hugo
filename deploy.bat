@@ -1,6 +1,6 @@
 set PATH=%PATH%;C:\Hugo\bin
 hugo
-xcopy c:\Hugo\ubcchemecar.github.io\public\* c:\remote\ubcchemecar.github.io /s /i /y
+xcopy c:\Hugo\cec\public\* c:\remote\ubcchemecar.github.io /s /i /y
 @echo off
 set /p msg="Enter msg: "
 @echo on
