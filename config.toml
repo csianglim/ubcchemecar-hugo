@@ -146,8 +146,7 @@ paginate = 10
     image = "/img/team/siang.jpg"
     name = "Siang Lim"
     role = "Vice-Captain/Administration"
-    blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem - E - Car Brand. In his spare time... Just kidding, Siang does not believe in spare time." 
-
+    blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem-E-Car Brand. In his spare time... Just kidding, Siang does not believe in spare time." 
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/kirsten-meng-49935bb3"
@@ -198,8 +197,6 @@ paginate = 10
     role = "Sponsorship Lead"
     blurb = "Claire joined Chem-E-Car in May 2015. As sponsorship officer, she is responsible for securing funding for the team. In her spare time, Claire volunteers with UBC Intramuralss. She enjoys playing the piano and questioning her degree."      
 
-
-    
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/jordan-wright-53a606108"
     image = "/img/team/2015/jordan.jpg"
@@ -234,21 +231,21 @@ paginate = 10
     name = "Filippo Botta"
     role = "Battery Team"
     blurb = "Filippo is a 4th year Chemical Engineer student. He joined Chem-E-Car this year to help with the research and development of a new battery unit. He is also involved in the design of the new battery casing. In his free time, he enjoys playing football and watching movies."
-    
+
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/solmon-dikran-8a2371117"
     image = "/img/team/2015/solomon.png"
     name = "Solomon Dikran"
     role = "Battery Team"
     blurb = "Solomon is a second year chemical engineering student. He has joined the team hoping to be a part of the devlopment of the battery, and also start new side projects. In his spare time Solomon enjoys playing sports, and hanging out with friends."
-    
+
 
 [[params.team]]
     linkedin = ""
     image = "/img/team/fiona.jpg"
     name = "Fiona D'Silva"
     role = "Battery Team"
-    blurb = ""    
+    blurb = ""
 
 [[params.team]]
     linkedin = ""
@@ -256,13 +253,6 @@ paginate = 10
     name = "Heya Gupta"
     role = "Battery Team"
     blurb = "Heya is a first year engineerig student who joined chem-e-car in 2016. She is eager to learn and hopes to join valuable experience by being apart of this team."    
-
-[[params.team]]
-    linkedin = ""
-    image = "/img/team/2015/pic-t2.jpg"
-    name = "William Xi"
-    role = "Battery Team"
-    blurb = "William is a 4th Year Chemical Engineering student."    
 
 [[params.team]]
     linkedin = ""
