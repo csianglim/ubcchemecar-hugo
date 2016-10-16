@@ -19,3 +19,9 @@ title = "Internal Team Links"
 ---
 
 > [Upload Safety Certificates](https://form.jotform.com/62887715352263)
+
+---
+
+> [UBC Engineering Design Team Handbook](/EDT_handbook.pdf)
+
+---
