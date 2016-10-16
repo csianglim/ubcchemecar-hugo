@@ -15,3 +15,7 @@ title = "Internal Team Links"
 ---
 
 > [Regionals Car II Battery Proposal](/Battery-Proposal-Al-C-Battery.docx)
+
+---
+
+> [Upload Safety Certificates](https://form.jotform.com/62887715352263)
