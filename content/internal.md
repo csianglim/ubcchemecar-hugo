@@ -14,7 +14,7 @@ title = "Internal Team Links"
 
 ---
 
-> [Regionals Car II Battery Proposal](/Battery-Proposal-Al-C-Battery.docx)
+> [Regionals Car II Battery Proposal](/docs/Battery-Proposal-Al-C-Battery.docx)
 
 ---
 
@@ -22,6 +22,6 @@ title = "Internal Team Links"
 
 ---
 
-> [UBC Engineering Design Team Handbook](/EDT_handbook.pdf)
+> [UBC Engineering Design Team Handbook](/docs/EDT_handbook.pdf)
 
 ---
