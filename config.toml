@@ -146,12 +146,7 @@ paginate = 10
     image = "/img/team/siang.jpg"
     name = "Siang Lim"
     role = "Vice-Captain/Administration"
-<<<<<<< HEAD
     blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem-E-Car Brand. In his spare time... Just kidding, Siang does not believe in spare time." 
-=======
-    blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem - E - Car Brand. In his spare time... Just kidding, Siang does not believe in spare time." 
-
->>>>>>> 587f7164bcd4027ca50c617c3938407fdeecec75
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/kirsten-meng-49935bb3"
