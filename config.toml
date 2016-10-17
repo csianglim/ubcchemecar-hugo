@@ -169,6 +169,7 @@ paginate = 10
     name = "Caitlin Lee"
     role = "Mechanical Team"
     blurb = "Caitlin is a 2nd year chemical engineering student"
+
 [[params.team]]
 
     image = "/img/team/2015/tampriye.jpg"
@@ -196,6 +197,7 @@ paginate = 10
     name = "Claire Armour"
     role = "Sponsorship Lead"
     blurb = "Claire joined Chem-E-Car in May 2015. As sponsorship officer, she is responsible for securing funding for the team. In her spare time, Claire volunteers with UBC Intramuralss. She enjoys playing the piano and questioning her degree."      
+
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/jordan-wright-53a606108"
@@ -237,7 +239,8 @@ paginate = 10
 #     image = "/img/team/2015/solomon.png"
 #     name = "Solomon Dikran"
 #     role = "Battery Team"
-#     blurb = "Solomon is a second year chemical engineering student. He has joined the team hoping to be a part of the devlopment of the battery, and also start new side projects. In his spare time Solomon enjoys playing sports, and hanging out with friends."
+#     blurb = "Solomon is a second year chemical engineering student. He has joined the team hoping to be a part of the devlopment of the battery, and also start new side projects. In his spare time Solomon enjoys playing sports, and hanging out with friends."    
+
 
 [[params.team]]
     linkedin = ""
@@ -245,6 +248,7 @@ paginate = 10
     name = "Fiona D'Silva"
     role = "Battery Team"
     blurb = ""
+
 
 [[params.team]]
     linkedin = ""
@@ -260,9 +264,18 @@ paginate = 10
     role = "Chemical Team Lead"
     blurb = ""
 
+
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/weiraybi"
     image = "/img/team/rayBi1.jpg"
     name = "Ray Bi"
     role = "Chemical Team Lead"
-    blurb = "Ray is an enthusiastic and detail-oriented 3rd year student in CHBE with high awareness of potential resource crisis and severe environment pollution. He finds it challenging, but exciting and enjoyable in proposing and optimizing stopping mechanisms and biofuel utilization methods. He is looking forward to devoting more time and energy into the delightful collaboration with colleagues in Chem-E-Car with similar pursuit and aspiration in the following years."
+
+    blurb = "Ray is an enthusiastic and detail-oriented 3rd year student in CHBE with high awareness of potential resource crisis and severe environment pollution. He finds it challenging, but exciting and enjoyable in proposing and optimizing stopping mechanisms and biofuel utilization methods. He is looking forward to devoting more time and energy into the delightful collaboration with colleagues in Chem-E-Car with similar pursuit and aspiration in the following years."    
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/aliya-mitchell-30898177"
+    image = "/img/team/2015/aliya.jpg"
+    name = "Aliya Mitchell"
+    role = "Chemical Team"
+    blurb = ""    
