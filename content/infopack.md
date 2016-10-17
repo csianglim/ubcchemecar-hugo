@@ -87,10 +87,9 @@ Complete the following [ONLINE SAFETY QUIZZES](https://www.hse2.ubc.ca/moodle/co
 
 > **Mandatory Certificates, COMPLETE ASAP**
  
-* Engineering Design Team Safety Orientation
-* Preventing and Addressing Workplace Bullying and Harassment
-* WHMIS Training Course
-* Introduction to Lab Safety Course
+1. Engineering Design Team Safety Orientation
+2. Preventing and Addressing Workplace Bullying and Harassment
+3. Chemical Safety Course
 
 > **AIChE Registration and Safety Test, COMPLETE ASAP**
  

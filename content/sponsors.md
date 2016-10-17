@@ -1,11 +1,6 @@
 +++
 title = "Sponsorship"
+layout = "sponsors"
 +++
 
-> # Page under re-construction.
-
----
-
-## [Sponsorship Package](/docs/UBC_Chem-E-Car_2016-2017.pdf)
-
-----
+## [2016-2017 Sponsorship Package](/docs/UBC_Chem-E-Car_2016-2017.pdf)
