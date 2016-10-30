@@ -9,7 +9,13 @@ title = "Internal Team Links"
 ---
 
 
-# Links
+# Team Assets
 ---
 
-## [Google Drive](https://drive.google.com/drive/u/1/folders/0BxA5RJPqh-P_WlZvTlRvMi1GV00) | ## [Finance App](http://finance.ubcchemecar.com/) | ## [Junior Car Battery Proposal](https://drive.google.com/open?id=0BzHMHyppV3eWVmRyNzVoZklRQy1EWE45U0s1NXh3bmh1OGNz) | [UBC Engineering Design Team Handbook](/docs/EDT_handbook.pdf)
+## [Google Drive](https://drive.google.com/drive/u/1/folders/0BxA5RJPqh-P_WlZvTlRvMi1GV00) | [Finance App](http://finance.ubcchemecar.com/) | [Junior Car Battery Proposal](https://drive.google.com/open?id=0BzHMHyppV3eWVmRyNzVoZklRQy1EWE45U0s1NXh3bmh1OGNz) 
+---
+
+# Misc
+---
+## [UBC Engineering Design Team Handbook](/docs/EDT_handbook.pdf)
+---
