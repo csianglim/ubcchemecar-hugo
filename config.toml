@@ -274,8 +274,8 @@ paginate = 10
     blurb = "Ray is an enthusiastic and detail-oriented 3rd year student in CHBE with high awareness of potential resource crisis and severe environment pollution. He finds it challenging, but exciting and enjoyable in proposing and optimizing stopping mechanisms and biofuel utilization methods. He is looking forward to devoting more time and energy into the delightful collaboration with colleagues in Chem-E-Car with similar pursuit and aspiration in the following years."    
 
 [[params.team]]
-    linkedin = "https://ca.linkedin.com/in/aliya-mitchell-30898177"
-    image = "/img/team/vasiliy.jpg"
+    linkedin = "https://ca.linkedin.com/in/vasiliy-triandafilidi-01326770"
+    image = "/img/team/vasiliy.png"
     name = "Vasilii Triandafilidi"
     role = "Graduate Student Advisor"
     blurb = "Vasilii is a PhD student in the Department of CHBE working on simulation of stimuli responsive polymers. Currently Vasilii is in his first year of involvement with Chem-E-Car as graduate advisor. He provides technical support for the team through his expertise in programming and materials engineering."
