@@ -275,7 +275,7 @@ paginate = 10
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/aliya-mitchell-30898177"
-    image = "/img/team/2015/aliya.jpg"
-    name = "Aliya Mitchell"
-    role = "Chemical Team"
-    blurb = ""    
+    image = "/img/team/vasiliy.jpg"
+    name = "Vasilii Triandafilidi"
+    role = "Graduate Student Advisor"
+    blurb = "Vasilii is a PhD student in the Department of CHBE working on simulation of stimuli responsive polymers. Currently Vasilii is in his first year of involvement with Chem-E-Car as graduate advisor. He provides technical support for the team through his expertise in programming and materials engineering."
