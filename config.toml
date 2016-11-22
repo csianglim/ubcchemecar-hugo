@@ -237,7 +237,7 @@ paginate = 10
 # [[params.team]]
 #     linkedin = "https://ca.linkedin.com/in/solmon-dikran-8a2371117"
 #     image = "/img/team/2015/solomon.png"
-#     name = "Solomon Dikran"
+#     name = "Solomon Dikran hello"
 #     role = "Battery Team"
 #     blurb = "Solomon is a second year chemical engineering student. He has joined the team hoping to be a part of the devlopment of the battery, and also start new side projects. In his spare time Solomon enjoys playing sports, and hanging out with friends."    
 
