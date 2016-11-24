@@ -206,7 +206,7 @@ paginate = 10
     blurb = "Jordan joined the battery team in 2015 to assist with the research and development of the new battery. He is a second year Chemical Engineering student with an interest in electrochemical cells and energy-related biotechnologies. He enjoys playing his guitar in his free time, as well as watching movies and playing League of Legends. Jordan is currently on a co-op term in Montreal."
 
 [[params.team]]
-    linkedin = ""
+    linkedin = "https://ca.linkedin.com/in/abhishek-lekhi-171160105"
     image = "/img/team/abhi.jpg"
     name = "Abhishek Lecki"
     role = "Junior Team Captain hi"
