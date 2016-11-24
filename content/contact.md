@@ -7,13 +7,23 @@ id = "contact"
 
 ### All General Inquiries: [info@ubcchemecar.com](mailto:info@ubcchemecar.com)
 
+---
+
+#### Admin 
+
 * Captain's email - [captain@ubcchemecar.com](mailto:captain@ubcchemecar.com)
+
+* Junior Team Captains - [juniorlead@ubcchemecar.com](mailto:juniorlead@ubcchemecar.com)
 
 * Sponsorship inquiries - [sponsorship@ubcchemecar.com](mailto:sponsorship@ubcchemecar.com)
 
 * Admin and website-related issues - [admin@ubcchemecar.com](mailto:admin@ubcchemecar.com)
 
 * Lab Managers - [labmanager@ubcchemecar.com](mailto:labmanager@ubcchemecar.com)  
+
+---
+
+#### Senior Team Contacts 
 
 * Battery/Chemical Team - [battery@ubcchemecar.com](mailto:battery@ubcchemecar.com)
 
