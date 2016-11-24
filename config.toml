@@ -139,7 +139,7 @@ paginate = 10
     image = "/img/team/2015/KyleComo.jpg"
     name = "Kyle Como"
     role = "Mechanical Lead"
-    blurb = "I am an undergraduate student in my 3rd year of Mechanical Engineering. My goal is to explore all of the exciting mechanical design options with my teammates and to produce prototypes. Before UBC I worked as a Mechanical Designer for 5 years.I have a diploma as a Mechanical Engineering Technologist in manufacturing from the BCIT and also as a Computer Automated Systems Technician from Thompson Rivers University. I will be conducting 3D modelling courses throughout the school year with the intent of manufacturing and prototyping."
+    blurb = "I am an undergraduate student in my 3rd year of Mechanical Engineering. My goal is to explore all of the exciting mechanical design options with my teammates and to produce prototypes. Before UBC I worked as a Mechanical Designer for 5 years. I have a diploma as a Mechanical Engineering Technologist in manufacturing from the BCIT and also as a Computer Automated Systems Technician from Thompson Rivers University. I will be conducting 3D modelling courses throughout the school year with the intent of manufacturing and prototyping."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/c-siang-lim-98535048"
@@ -153,7 +153,7 @@ paginate = 10
     image = "/img/team/2015/kirsten.jpg"
     name = "Kirsten Meng"
     role = "Mechanical Team"
-    blurb = "Kirsten is a Mechanical Engineering student! Woohoo!"
+    blurb = "Kirsten is a Mechanical Engineering student! Woohoo! TBH Idk who is Kirsten lmao..."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
@@ -164,11 +164,10 @@ paginate = 10
 
 [[params.team]]
     linkedin = ""
-
     image = "/img/team/2015/caitlinLee1.jpg"
     name = "Caitlin Lee"
     role = "Mechanical Team"
-    blurb = "Caitlin is a 2nd year chemical engineering student"
+    blurb = "Caitlin is a 2nd year chemical engineering student. Not only is she capable of whipping up 3D parts using SolidWorks in 2 seconds or styling a chassis in 3, she also heads the UBC Dance Horizons Club. Because being lead for just one project is never enough."
 
 [[params.team]]
 
@@ -205,6 +204,13 @@ paginate = 10
     name = "Jordan Wright"
     role = "Junior Battery Lead"
     blurb = "Jordan joined the battery team in 2015 to assist with the research and development of the new battery. He is a second year Chemical Engineering student with an interest in electrochemical cells and energy-related biotechnologies. He enjoys playing his guitar in his free time, as well as watching movies and playing League of Legends. Jordan is currently on a co-op term in Montreal."
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/abhi.jpg"
+    name = "Abhishek Lecki"
+    role = "Junior Team Captain hi"
+    blurb = "Nast"
 
 [[params.team]]
     linkedin = ""
@@ -255,7 +261,7 @@ paginate = 10
     image = "/img/team/heya.jpg"
     name = "Heya Gupta"
     role = "Battery Team"
-    blurb = "Heya is a first year engineerig student who joined chem-e-car in 2016. She is eager to learn and hopes to join valuable experience by being apart of this team."    
+    blurb = "Heya is a first year engineerig student who joined chem-e-car in 2016. She is eager to learn and hopes to join valuable experience by being apart of this team."
 
 [[params.team]]
     linkedin = ""
@@ -278,4 +284,4 @@ paginate = 10
     image = "/img/team/2015/aliya.jpg"
     name = "Aliya Mitchell"
     role = "Chemical Team"
-    blurb = ""    
+    blurb = ""
