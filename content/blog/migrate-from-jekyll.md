@@ -1,7 +1,7 @@
 +++
 title = "Migrate from Jekyll"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
+tags = ["hugo"]
 categories = ["lorem"]
 banner = "img/banners/banner-5.jpg"
 +++
