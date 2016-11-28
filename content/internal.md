@@ -19,10 +19,10 @@ title = "Internal Team Links"
 # Team Assets
 ---
 
-## [Google Drive](https://drive.google.com/drive/u/1/folders/0BxA5RJPqh-P_WlZvTlRvMi1GV00) | [Finance App](http://finance.ubcchemecar.com/) | [Junior Car Battery Proposal](https://drive.google.com/open?id=0BzHMHyppV3eWVmRyNzVoZklRQy1EWE45U0s1NXh3bmh1OGNz) 
+## [Google Drive](https://drive.google.com/drive/u/1/folders/0BxA5RJPqh-P_WlZvTlRvMi1GV00) | [Safety Certificates](https://drive.google.com/open?id=0BxA5RJPqh-P_SkxWV1dQUW5GRnM) | [Finance App](http://finance.ubcchemecar.com/) | [Junior Car Battery Proposal](https://drive.google.com/open?id=0BzHMHyppV3eWVmRyNzVoZklRQy1EWE45U0s1NXh3bmh1OGNz) 
 ---
 
 # Misc
 ---
-## [UBC Engineering Design Team Handbook](/docs/EDT_handbook.pdf)
+## [UBC Engineering Design Team Handbook](/docs/EDT_handbook.pdf) | [Iodine Clock Reaction](/docs/Iodine-Clock-Reaction-Calibration-SOP.doc)
 ---
