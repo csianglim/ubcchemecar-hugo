@@ -4,6 +4,7 @@ date = "2016-11-24"
 tags = ["Chem-E-Car"]
 categories = ["Design"]
 banner = "img/banners/banner-trial.jpg"
+author = "Athanasios Kritharis"
 +++
 
 ### Introduction
