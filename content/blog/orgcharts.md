@@ -3,7 +3,7 @@ title = "How To Create Dynamic Org Charts With Google Sheets and Javascript"
 date = "2016-12-24"
 tags = ["Javascript"]
 categories = ["Software"]
-banner = "img/banners/banner-5.jpg"
+banner = "img/banners/banner-orgchart.jpg"
 author = "Siang Lim"
 +++
 
