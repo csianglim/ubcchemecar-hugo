@@ -216,7 +216,7 @@ paginate = 10
     linkedin = ""
     image = "/img/team/arjun.jpg"
     name = "Arjun Bhagwat"
-    role = "Junior Battery Lead"
+    role = "Senior Battery Team Member"
     blurb = ""
 
 [[params.team]]
