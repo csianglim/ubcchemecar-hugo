@@ -153,7 +153,28 @@ paginate = 10
     image = "/img/team/2015/kirsten.jpg"
     name = "Kirsten Meng"
     role = "Mechanical Team"
-    blurb = "Kirsten is a Mechanical Engineering student! Woohoo! TBH Idk who is Kirsten lmao..."
+    blurb = "Kirsten is a Mechanical Engineering student! Woohoo!"
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/joshua-agarwal-3b68667a"
+    image = ""
+    name =  "Josh Agarwal"
+    role = "Junior Chemical Team Co-Lead"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = ""
+    name = "Jayg Dimayacyac"
+    role = "Junior Chemical Team Co-Lead"
+    blurb = ""
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/shams-elnawawi-7a105810b"
+    image =""
+    name = "Shams Elnawawi"
+    role = "Junior Electrical Team Co-Lead"
+    blurb = ""
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
@@ -170,7 +191,6 @@ paginate = 10
     blurb = "Caitlin is a 2nd year chemical engineering student. Not only is she capable of whipping up 3D parts using SolidWorks in 2 seconds or styling a chassis in 3, she also heads the UBC Dance Horizons Club. Because being lead for just one project is never enough."
 
 [[params.team]]
-
     image = "/img/team/2015/tampriye.jpg"
     name = "Tampriye Asawo"
     role = "Logistics, Sponsorship"
