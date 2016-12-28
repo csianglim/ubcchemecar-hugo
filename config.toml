@@ -157,14 +157,14 @@ paginate = 10
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/joshua-agarwal-3b68667a"
-    image = ""
+    image = "/photos-sized-v2/joshagarwal.jpeg"
     name =  "Josh Agarwal"
     role = "Junior Chemical Team Co-Lead"
-    blurb = ""
+    blurb = "2cd year chemical enginering student"
 
 [[params.team]]
     linkedin = ""
-    image = ""
+    image = "/photos-sized-v2/jayg.jpeg"
     name = "Jayg Dimayacyac"
     role = "Junior Chemical Team Co-Lead"
     blurb = ""
