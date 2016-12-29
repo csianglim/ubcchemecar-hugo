@@ -157,21 +157,21 @@ paginate = 10
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/joshua-agarwal-3b68667a"
-    image = ""
+    image = "/img/team/2017/josh.jpg"
     name =  "Josh Agarwal"
     role = "Junior Chemical Team Co-Lead"
     blurb = ""
 
 [[params.team]]
     linkedin = ""
-    image = ""
+    image = "/img/team/2017/jayg.jpg"
     name = "Jayg Dimayacyac"
     role = "Junior Chemical Team Co-Lead"
     blurb = ""
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/shams-elnawawi-7a105810b"
-    image =""
+    image ="/img/team/2017/shams.jpg"
     name = "Shams Elnawawi"
     role = "Junior Electrical Team Co-Lead"
     blurb = ""
