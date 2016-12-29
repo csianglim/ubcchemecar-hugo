@@ -103,8 +103,10 @@ Complete the following [ONLINE SAFETY QUIZZES](https://www.hse2.ubc.ca/moodle/co
 
 The consensus is to focus on software skills, i.e. Arduino and general coding.
 
-* If you haven't, please download the latest version of Arduino: <a href="https://www.arduino.cc/en/Main/Software">Download the Arduino Software</a>
-*  We will go over some basic if and while loop structures that are common in coding practices. We will also take a look at the coding for an encoder wheel. You can [read more here](http://machinedesign.com/sensors/basics-rotary-encoders-overview-and-new-technologies-0").
+**Mandatory**
+- Work through these introductory software and web development tutorials as fast as you can, let us know in the group chat if you get stuck. [Available on GitHub](https://github.com/ubcchemecar/beginners-tutorial)
+
+* If you haven't, please download the latest version of Arduino: <a href="https://www.arduino.cc/en/Main/Software">Download the Arduino Software</a> and take a look at the coding for an encoder wheel. You can [read more here](http://machinedesign.com/sensors/basics-rotary-encoders-overview-and-new-technologies-0").
 
 ---
 
