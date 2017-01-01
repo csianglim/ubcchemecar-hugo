@@ -128,6 +128,55 @@ paginate = 10
     blurb = "Athanasios (Thanos) is currently in his 3rd year of involvement with Chem-E-Car. He has watched the team grow from 5 dedicated students to the 30+ Organization that it is today. Under his leadership Chem-E-Car has expanded to include innovations in the LNG sector, development of novel forms of rechargeable batteries, and increased public outreach and education on fuel cells and other forms of energy storage. He hopes to further empower even more students in pursuing their passion to develop technologies for the benefit of all."
 
 [[params.team]]
+    linkedin = "https://ca.linkedin.com/in/c-siang-lim-98535048"
+    image = "/img/team/siang.jpg"
+    name = "Siang Lim"
+    role = "Vice-Captain/Administration"
+    blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem-E-Car Brand. In his spare time... Just kidding, Siang does not believe in spare time."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/ngai-to-lo-7a6750129"
+    image = "/img/team/2017/ngaito.jpeg"
+    name = "Ngai To Lo"
+    role = "Logistics Officer/Senior Electrical Lead"
+    blurb = "Ngai To is a 3rd year chemical engineering student participating in Chem-E-Car as the Head of Logistics and Electrical Lead. Ngai To enjoys a little bit of everything and tinkers with mechanics, machining, coding, and hardware in his free time."
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2015/marcCaruth.jpg"
+    name = "Marc Caruth"
+    role = "Treasurer, Sponsorship"
+    blurb = "Marc Caruth is currently in his 2nd year of involvement with Chem-E-Car. Marc is responsible for the financials including preparing the budget and reporting the actual results. In his free time, he enjoys skiing and hiking in the Vancouver mountains."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/andrew-may-1b31b796"
+    image = "/img/team/2017/andy.jpg"
+    name = "Andrew May"
+    role = "Senior Chemical Team Member"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/negar.jpg"
+    name = "Negar Zaghi"
+    role = "Chemical Team Lead"
+    blurb = ""
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/weiraybi"
+    image = "/img/team/2017/ray.jpeg"
+    name = "Ray Bi"
+    role = "Chemical Team Lead"
+    blurb = "Ray is an enthusiastic and detail-oriented 3rd year student in CHBE with high awareness of potential resource crisis and severe environment pollution. He finds it challenging, but exciting and enjoyable in proposing and optimizing stopping mechanisms and biofuel utilization methods. He is looking forward to devoting more time and energy into the delightful collaboration with colleagues in Chem-E-Car with similar pursuit and aspiration in the following years."    
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/vasiliy-triandafilidi-01326770"
+    image = "/img/team/vasiliy.png"
+    name = "Vasilii Triandafilidi"
+    role = "Graduate Student Advisor"
+    blurb = "Vasilii is a PhD student in the Department of CHBE working on simulation of stimuli responsive polymers. Currently Vasilii is in his first year of involvement with Chem-E-Car as graduate advisor. He provides technical support for the team through his expertise in programming and materials engineering."
+
+[[params.team]]
     linkedin = "https://ca.linkedin.com/in/shayanrezaie"
     image = "/img/team/shayan.jpg"
     name = "Shayan Rezaie"
@@ -136,17 +185,11 @@ paginate = 10
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/kyle-como-9524b990"
-    image = "/img/team/2015/KyleComo.jpg"
+    image = "/img/team/2017/kyle.jpeg"
     name = "Kyle Como"
     role = "Mechanical Lead"
     blurb = "I am an undergraduate student in my 3rd year of Mechanical Engineering. My goal is to explore all of the exciting mechanical design options with my teammates and to produce prototypes. Before UBC I worked as a Mechanical Designer for 5 years. I have a diploma as a Mechanical Engineering Technologist in manufacturing from the BCIT and also as a Computer Automated Systems Technician from Thompson Rivers University. I will be conducting 3D modelling courses throughout the school year with the intent of manufacturing and prototyping."
 
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/c-siang-lim-98535048"
-    image = "/img/team/siang.jpg"
-    name = "Siang Lim"
-    role = "Vice-Captain/Administration"
-    blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem-E-Car Brand. In his spare time... Just kidding, Siang does not believe in spare time." 
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/kirsten-meng-49935bb3"
@@ -156,27 +199,6 @@ paginate = 10
     blurb = "Kirsten is a Mechanical Engineering student! Woohoo!"
 
 [[params.team]]
-    linkedin = "https://ca.linkedin.com/in/joshua-agarwal-3b68667a"
-    image = "/img/team/2017/josh.jpg"
-    name =  "Josh Agarwal"
-    role = "Junior Chemical Team Co-Lead"
-    blurb = ""
-
-[[params.team]]
-    linkedin = ""
-    image = "/img/team/2017/jayg.jpg"
-    name = "Jayg Dimayacyac"
-    role = "Junior Chemical Team Co-Lead"
-    blurb = ""
-
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/shams-elnawawi-7a105810b"
-    image ="/img/team/2017/shams.jpg"
-    name = "Shams Elnawawi"
-    role = "Junior Electrical Team Co-Lead"
-    blurb = ""
-
-[[params.team]]
     linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
     image = "/img/team/mani.jpg"
     name = "Mani Massah"
@@ -184,24 +206,10 @@ paginate = 10
     blurb = "Mani is a 4th year chemical engineering student with an interest in electrochemistry. He is working on creating alkaline batteries as an alternative to the zinc air batteries that are currently being used in the car. He has recently become very involved with Chem-E-Car and loves hanging out with the team."
 
 [[params.team]]
-    linkedin = ""
-    image = "/img/team/2015/caitlinLee1.jpg"
-    name = "Caitlin Lee"
-    role = "Mechanical Team"
-    blurb = "Caitlin is a 2nd year chemical engineering student. Not only is she capable of whipping up 3D parts using SolidWorks in 2 seconds or styling a chassis in 3, she also heads the UBC Dance Horizons Club. Because being lead for just one project is never enough."
-
-[[params.team]]
     image = "/img/team/2015/tampriye.jpg"
     name = "Tampriye Asawo"
     role = "Logistics, Sponsorship"
     blurb = "Tampriye is a third year Chemical Engineering student. She joined Chem-E-Car in 2015 and will be using SolidWorks to design the battery compartment and prepare an appropriate electrolyte solution. She is also involved in administrative duties such as promoting the team. In her spare time, Tampriye enjoys reading and hiking various BC trails."    
-
-[[params.team]]
-    linkedin = ""
-    image = "/img/team/2015/marcCaruth.jpg"
-    name = "Marc Caruth"
-    role = "Treasurer, Sponsorship"
-    blurb = "Marc Caruth is currently in his 2nd year of involvement with Chem-E-Car. Marc is responsible for the financials including preparing the budget and reporting the actual results. In his free time, he enjoys skiing and hiking in the Vancouver mountains."    
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/dominic-bartlomowicz-149321ba"
@@ -226,14 +234,98 @@ paginate = 10
     blurb = "Jordan joined the battery team in 2015 to assist with the research and development of the new battery. He is a second year Chemical Engineering student with an interest in electrochemical cells and energy-related biotechnologies. He enjoys playing his guitar in his free time, as well as watching movies and playing League of Legends. Jordan is currently on a co-op term in Montreal."
 
 [[params.team]]
+    linkedin = "https://ca.linkedin.com/in/victor-chiew-b7359185"
+    image = "/img/team/2017/victor.jpeg"
+    name = "Victor Chiew"
+    role = "Junior Team Co-captain"
+    blurb = ""
+
+[[params.team]]
     linkedin = "https://ca.linkedin.com/in/abhishek-lekhi-171160105"
-    image = "/img/team/abhi.jpg"
+    image = "/img/team/2017/abhi.jpg"
     name = "Abhishek Lekhi"
-    role = "Junior Team Captain"
+    role = "Junior Team Co-captain"
     blurb = "Second year CHBE student"
 
 [[params.team]]
+    linkedin = "https://ca.linkedin.com/in/joshua-agarwal-3b68667a"
+    image = "/img/team/2017/josh.jpg"
+    name =  "Josh Agarwal"
+    role = "Junior Chemical Team Co-Lead"
+    blurb = "Josh is a recent member of the chem e car team and currently is one of the junior chemical team lead. As a second year chemical and biological engineering student, Josh has goals to eventually work in the field of chemical tissue engineering with regenerative medicines. Hobbies include playing soccer and sketching. "
+
+[[params.team]]
     linkedin = ""
+    image = "/img/team/2017/jayg.jpg"
+    name = "Jayg Dimayacyac"
+    role = "Junior Chemical Team Co-Lead"
+    blurb = ""
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/jaspreet-chahal-a089ba95"
+    image = "/img/team/2017/jaspreet.jpeg"
+    name = "Jaspreet Chahal"
+    role = "Junior Battery Team Co-Lead"
+    blurb = "Jaspreet is the co-lead of the Junior Chem-E-Car Battery Team and leads the Aluminum Carbon battery team. She is in her final year of Chemical Engineering ( Process Option ) and her goal is to become a Process/ Project Engineer after graduation. She loves iced coffee and in her free time, she likes to watch movies/ documentaries."
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/fiona.jpeg"
+    name = "Fiona D'Silva"
+    role = "Junior Battery Team Co-lead"
+    blurb = ""
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/stuthi-hegde-0b5403111"
+    image = "/img/team/stuthi.jpg"
+    name = "Stuthi Hegde"
+    role = "Battery Team"
+    blurb = "Stuthi is a second year chemical engineering student who is a recent addition to the Chem-E-Car team. She will be working on researching and developing an efficient battery for the Car. Beyond her engineering life, Stuthi enjoys traveling and hanging out with friends."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/shams-elnawawi-7a105810b"
+    image = "/img/team/2017/shams.jpg"
+    name = "Shams Elnawawi"
+    role = "Junior Electrical Team Co-Lead"
+    blurb = ""
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/alisa-dmitrieva-a95559124"
+    image = "/img/team/2017/alisa.jpg"
+    name = "Alisa Dmitrieva"
+    role = "Junior Electrical Team Member"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = ""
+    name = ""
+    role = ""
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/caitlin.jpeg"
+    name = "Caitlin Lee"
+    role = " Junior Mechanical Team Co-Lead"
+    blurb = "Caitlin is a 2nd year chemical engineering student. Not only is she capable of whipping up 3D parts using SolidWorks in 2 seconds or styling a chassis in 3, she also heads the UBC Dance Horizons Club. Because being lead for just one project is never enough."
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/breanna-gowe-a06b23132"
+    image = "/img/team/2017/breanna.jpeg"
+    name = "Breanna Gowe"
+    role = "Junior Mechanical Team Co-Lead"
+    blurb = "Breanna is in second year mechanical engineering and is one of the junior mechanical leads on the team. She is looking to pursue a career in the biomedical field. Outside of school Breanna likes to waterski in the Okanagan"
+
+[[params.team]]
+    linkedin = ""
+    image = ""
+    name = ""
+    role = ""
+    blurb = ""
+
+[[params.team]]
+    linkedin = "https://ca.linkedin.com/in/arjun-bhagwat-7b6345b6"
     image = "/img/team/arjun.jpg"
     name = "Arjun Bhagwat"
     role = "Senior Battery Team Member"
@@ -241,16 +333,9 @@ paginate = 10
 
 [[params.team]]
     linkedin = ""
-    image = "/img/team/stuthi.jpg"
-    name = "Stuthi Hegde"
-    role = "Battery Team"
-    blurb = "Stuthi is a second year chemical engineering student who is a recent addition to the Chem-E-Car team. She will be working on researching and developing an efficient battery for the Car. Beyond her engineering life, Stuthi enjoys traveling and hanging out with friends."
-
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/andrew-may-1b31b796"
-    image = "/img/team/2015/AndrewMay.jpg"
-    name = "Andrew May"
-    role = "Imagineer"
+    image = "/img/team/2017/joshagustin.jpeg"
+    name = "Josh Agustin"
+    role = "Junior Chemical Team Member"
     blurb = ""
 
 [[params.team]]
@@ -270,38 +355,8 @@ paginate = 10
 
 [[params.team]]
     linkedin = ""
-    image = "/img/team/fiona.jpg"
-    name = "Fiona D'Silva"
-    role = "Battery Team"
-    blurb = ""
-
-
-[[params.team]]
-    linkedin = ""
     image = "/img/team/heya.jpg"
     name = "Heya Gupta"
     role = "Battery Team"
     blurb = "Heya is a first year engineerig student who joined chem-e-car in 2016. She is eager to learn and hopes to join valuable experience by being apart of this team."
 
-[[params.team]]
-    linkedin = ""
-    image = "/img/team/negar.jpg"
-    name = "Negar Zaghi"
-    role = "Chemical Team Lead"
-    blurb = ""
-
-
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/weiraybi"
-    image = "/img/team/rayBi1.jpg"
-    name = "Ray Bi"
-    role = "Chemical Team Lead"
-
-    blurb = "Ray is an enthusiastic and detail-oriented 3rd year student in CHBE with high awareness of potential resource crisis and severe environment pollution. He finds it challenging, but exciting and enjoyable in proposing and optimizing stopping mechanisms and biofuel utilization methods. He is looking forward to devoting more time and energy into the delightful collaboration with colleagues in Chem-E-Car with similar pursuit and aspiration in the following years."    
-
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/vasiliy-triandafilidi-01326770"
-    image = "/img/team/vasiliy.png"
-    name = "Vasilii Triandafilidi"
-    role = "Graduate Student Advisor"
-    blurb = "Vasilii is a PhD student in the Department of CHBE working on simulation of stimuli responsive polymers. Currently Vasilii is in his first year of involvement with Chem-E-Car as graduate advisor. He provides technical support for the team through his expertise in programming and materials engineering."
