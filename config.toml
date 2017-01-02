@@ -129,7 +129,7 @@ paginate = 10
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/c-siang-lim-98535048"
-    image = "/img/team/siang.jpg"
+    image = "/img/team/2017/siang.jpeg"
     name = "Siang Lim"
     role = "Vice-Captain/Administration"
     blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem-E-Car Brand. In his spare time... Just kidding, Siang does not believe in spare time."
@@ -184,12 +184,18 @@ paginate = 10
     blurb = "Shayan is a fifth year Engineering physics student who is responsible for designing the schematics and PCB for the Chem-E-Car . He is also involved in developing the code/drivers for the sensors used in this project. Before joining Chem-E-Car, Shayan worked for multiple companies as a hardware engineer developing software and schematics."
 
 [[params.team]]
+    linkedin = "https://ca.linkedin.com/in/arjun-bhagwat-7b6345b6"
+    image = "/img/team/2017/arjun.jpg"
+    name = "Arjun Bhagwat"
+    role = "Senior Battery Team Member"
+    blurb = ""
+
+[[params.team]]
     linkedin = "https://ca.linkedin.com/in/kyle-como-9524b990"
     image = "/img/team/2017/kyle.jpeg"
     name = "Kyle Como"
     role = "Mechanical Lead"
     blurb = "I am an undergraduate student in my 3rd year of Mechanical Engineering. My goal is to explore all of the exciting mechanical design options with my teammates and to produce prototypes. Before UBC I worked as a Mechanical Designer for 5 years. I have a diploma as a Mechanical Engineering Technologist in manufacturing from the BCIT and also as a Computer Automated Systems Technician from Thompson Rivers University. I will be conducting 3D modelling courses throughout the school year with the intent of manufacturing and prototyping."
-
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/kirsten-meng-49935bb3"
@@ -248,6 +254,20 @@ paginate = 10
     blurb = "Second year CHBE student"
 
 [[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/said.jpeg"
+    name = "Said Zaid"
+    role = "Junior Team Vice-Captain/Sponsorship officer"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/sequoyah.jpeg"
+    name = "Sequoyah Ezekiel"
+    role = "Finance and logistic officer"
+    blurb = ""
+
+[[params.team]]
     linkedin = "https://ca.linkedin.com/in/joshua-agarwal-3b68667a"
     image = "/img/team/2017/josh.jpg"
     name =  "Josh Agarwal"
@@ -262,6 +282,41 @@ paginate = 10
     blurb = ""
 
 [[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/ping.jpeg"
+    name = "Ping Ang"
+    role = "Junior Chemical Team Member"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/nina.jpeg"
+    name = "Nina Hamard"
+    role = "Junior Chemical Team Member"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/joshagustin.jpeg"
+    name = "Josh Agustin"
+    role = "Junior Chemical Team Member"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/rolando.jpeg"
+    name = "Rolando Streber"
+    role = "Junior Chemical Team Member"
+    blurb = ""
+
+[[param.team]]
+    linkedin = ""
+    image = "/img/team/2017/pranav.jpeg"
+    name = "Pranav Misri"
+    role = "Junior Chemical Team Member"
+    blurb = ""
+
+[[params.team]]
     linkedin = "https://ca.linkedin.com/in/jaspreet-chahal-a089ba95"
     image = "/img/team/2017/jaspreet.jpeg"
     name = "Jaspreet Chahal"
@@ -272,15 +327,36 @@ paginate = 10
     linkedin = ""
     image = "/img/team/2017/fiona.jpeg"
     name = "Fiona D'Silva"
-    role = "Junior Battery Team Co-lead"
+    role = "Junior Battery Team Co-lead/Fuel Cell Division member"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/clement.jpeg"
+    name = "Clement Asiedu-Antwi"
+    role = "Safety Officer/Junior Battery Team Member"
     blurb = ""
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/stuthi-hegde-0b5403111"
     image = "/img/team/stuthi.jpg"
     name = "Stuthi Hegde"
-    role = "Battery Team"
+    role = "Junior Battery Team member - Fuel Cell Division"
     blurb = "Stuthi is a second year chemical engineering student who is a recent addition to the Chem-E-Car team. She will be working on researching and developing an efficient battery for the Car. Beyond her engineering life, Stuthi enjoys traveling and hanging out with friends."
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/jeffery.jpeg"
+    name = "Jeffery Kung"
+    role = "Junior Battery Team member - Fuell Cell Division"
+    blurb = ""
+
+[[params.team]]
+    linkedin = ""
+    image = "/img/team/2017/aziz.jpeg"
+    name = "Abdulaziz Al Said"
+    role = "Junior Battery Team Member"
+    blurb = ""
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/shams-elnawawi-7a105810b"
@@ -294,13 +370,6 @@ paginate = 10
     image = "/img/team/2017/alisa.jpg"
     name = "Alisa Dmitrieva"
     role = "Junior Electrical Team Member"
-    blurb = ""
-
-[[params.team]]
-    linkedin = ""
-    image = ""
-    name = ""
-    role = ""
     blurb = ""
 
 [[params.team]]
@@ -319,23 +388,16 @@ paginate = 10
 
 [[params.team]]
     linkedin = ""
-    image = ""
-    name = ""
-    role = ""
-    blurb = ""
-
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/arjun-bhagwat-7b6345b6"
-    image = "/img/team/arjun.jpg"
-    name = "Arjun Bhagwat"
-    role = "Senior Battery Team Member"
+    image = "/img/team/2017/roger.jpeg"
+    name = "Roger Xiao"
+    role = "Junior Mechanical Team Member"
     blurb = ""
 
 [[params.team]]
     linkedin = ""
-    image = "/img/team/2017/joshagustin.jpeg"
-    name = "Josh Agustin"
-    role = "Junior Chemical Team Member"
+    image = "/img/team/2017/wendie.jpeg"
+    name = "Wendie Wu"
+    role = "Junior Mechanical Team Member"
     blurb = ""
 
 [[params.team]]
