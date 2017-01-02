@@ -63,6 +63,17 @@
 
             {{ end }}
 
+            {{ if isset .Site.Params "meeting" }}
+            <section>
+
+                <h3 class="text-uppercase">Meeting Times</h3>
+
+                {{ .Site.Params.meeting | safeHTML }}
+
+            </section>
+
+            {{ end }}            
+
         </div>
 
     </div>
