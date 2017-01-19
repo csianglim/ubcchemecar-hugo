@@ -4,7 +4,7 @@ date = "2016-12-24"
 tags = ["Javascript"]
 categories = ["Software"]
 banner = "/img/blog/orgcharts/2.png"
-author = "Siang Lim"
+author = ["Siang Lim"]
 +++
 
 ## Introduction

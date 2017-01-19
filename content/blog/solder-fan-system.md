@@ -4,7 +4,7 @@ date = "2017-01-01"
 tags = ["Electrical"]
 categories = ["design"]
 banner = "/img/blog/solder-fan/2wirefan.jpg"
-author = "Ngai To Lo"
+author = ["Ngai To Lo"]
 +++
 
 Recently, I've been playing around with old computer power supplies. Naturally, that led me to other components of the computer, namely, the cooling fan. These fans are driven by a brushless DC motor system. This is to achieve a reduced sound and higher efficiency compared to a brushed DC motor system such as those you would see (or hear) in printers, air conditioners and RC cars. 

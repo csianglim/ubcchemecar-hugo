@@ -4,7 +4,7 @@ date = "2017-01-12"
 tags = ["beer"]
 categories = ["design"]
 banner = "/img/blog/beer/logo.png"
-author = "Eric Loong"
+author = ["Eric Loong"]
 +++
 
 

@@ -4,7 +4,7 @@ date = "2017-01-19"
 tags = ["biofuels"]
 categories = ["design"]
 banner = "/img/blog/biofuels/biofuels.png"
-author = "Abhishek Lekhi"
+author = ["Abhishek Lekhi", "Victor Chiew", "Said Zaid", "Shams Elnawawi"]
 +++
 
 # Prologue 
