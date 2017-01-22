@@ -38,7 +38,8 @@
                                 <li>
                                   <a href="{{.linkedin}}" data-largesrc="{{ .image }}" data-title="{{ .name }}" data-role="{{ .role }}" data-description="{{ .blurb }}" data-href_desc="<i class='fa fa-linkedin fa-square-o'></i> LinkedIn">
                                     <img src="{{ .image }}" alt="{{ .name }}"/>
-                                  </a>                              
+                                  </a>
+                                  <div class="team-name"><p>{{ .name }}</p></div>
                                 </li>
                               {{ end }}
                             </ul>
