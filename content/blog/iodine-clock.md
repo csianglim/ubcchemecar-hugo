@@ -3,7 +3,7 @@ title = "Chem-E-Car Reaction Mechanism"
 date = "2017-01-27"
 tags = ["iodine clock"]
 categories = ["chemical"]
-banner = "/img/blog/beer/logo.png"
+banner = "/img/blog/iodine-clock/figure1.png"
 author = ["Joshua Agarwal", "Jayg Dimayacyac"]
 +++
 
