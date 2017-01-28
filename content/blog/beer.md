@@ -1,8 +1,8 @@
 +++
 title = "Beer Homebrew Project"
 date = "2017-01-12"
-tags = ["beer"]
-categories = ["design"]
+tags = ["beer", "brewing"]
+categories = ["design", "automation", "process control"]
 banner = "/img/blog/beer/logo.png"
 author = ["Eric Loong"]
 +++
@@ -26,7 +26,7 @@ We began with browsing the web on what kind of equipment would be required to be
 
 ### Sanitizing
 
-Armed with this new knowledge, we purchased the equipment and got to work. We began with sanitizing all the equipment with Sani-brew (1 tbsp. powder/L of water) cleaning solution. This is to ensure that chance of bacterial growth or contamination is minimized. 
+Armed with this new knowledge, we purchased the equipment and got to work. We began with sanitizing all the equipment with Sani-brew (1 tbsp. powder/L of water) cleaning solution. This is to ensure that chance of bacterial growth or contamination is minimized.
 
 ### Mashing
 
@@ -49,7 +49,7 @@ Before the yeast was added to the wort, a test was conducted using a hydrometer.
 
 After a week of fermentation, the brew was transported into the carboy for conditioning and additional fermentation. The brew was siphoned out using a tube with a filter attached to the end to prevent larger solids from going through. Once all the brew was transported to the carboy, it was sealed with another airlock and left to sit for another week.
 
-With a total of two weeks of fermentation, the brew was about ready to bottle. Another test was done with the hydrometer (pictured below) to see if the fermentation was near completion. 
+With a total of two weeks of fermentation, the brew was about ready to bottle. Another test was done with the hydrometer (pictured below) to see if the fermentation was near completion.
 
 <img src="/img/blog/beer/hydrometer.jpg" height="80%">
 
