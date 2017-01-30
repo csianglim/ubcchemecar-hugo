@@ -64,11 +64,15 @@ paginate = 10
     url  = "/team/"
     weight = 5
 
+[[params.menu]]
+    name = "Services"
+    url  = "/services/"
+    weight = 6
 
 [[params.menu]]
     name = "Contact"
     url  = "/contact/"
-    weight = 6
+    weight = 7
 
 [params.carousel]
     enable = true

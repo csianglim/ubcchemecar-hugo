@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <style>
+   h3 {
+    font-size: 28px !important;
+   }
+  </style>
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+          <link rel="stylesheet" type="text/css" href="/css/component.css" />
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="main text-center">
+                          <div class="heading text-center">
+                              <h2>3D Printing</h2>
+                          </div>
+
+                          <h2>Cheapest service on campus, satisfaction guaranteed.</h2>
+
+                          <img src="/img/services/taz6.jpg" width="100%"/>
+
+                          <p class="lead">
+                            $0.25 per gram? Screw the bookstore. We have the best price on campus:
+                          </p>
+
+                          <h1>
+                            <b>$0.20/gram</b>
+                          </h1>
+
+                          <section class="bar background-white">
+                            <div class="container">
+                            <div class="col-md-12">
+                            <div class="row">
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-desktop"></i>
+                              </div>
+                              <h3>Need Some Help?</h3>
+                              <p>We offer free consultation and assistance with your CAD models (Solidworks, Inventor etc.).</p>
+                              </div>
+                            </div>
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-print"></i>
+                              </div>
+                              <h3>Affordable</h3>
+                              <p>At $0.20/gram, we offer the CHEAPEST service on campus.</p>
+                              </div>
+                            </div>
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-globe"></i>
+                              </div>
+                              <h3>Flexible</h3>
+                              <p>Need something printed over the weekend or 3am at night? We can help. *Additional charges may apply if we have to wake up in the middle of the night.</p>
+                              </div>
+                            </div>
+
+                            </div>
+                            </div>
+                            </div>
+                          </section>
+
+                          <h2>Need something printed? Contact us!</h2>
+
+                          <p class="lead">
+                            <a href="mailto:services@ubcchemecar.com">services@ubcchemecar.com</a>
+                          </p>
+
+
+
+
+
+                        <div class="text-center">
+
+                        </div>
+                        <br>
+                        <hr>
+
+                        </div>
+                    </div>
+                </div> <!-- /.row -->
+            </div>
+
+
+        {{ partial "footer.html" . }}
+        </div>
+        <!-- /#content -->
+
+
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/js/modernizr.custom.js"></script>
+    <script src="/js/grid.js"></script>
+    <script>
+      $(function() {
+          Grid.init();
+      });
+    </script>
+  </body>
+</html>
