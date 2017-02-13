@@ -7,8 +7,179 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (C) 2017 UBC Chem-E-Car. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.ubcchemecar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Do You Even Budget?</title>
+      <link>http://www.ubcchemecar.com/blog/2017/02/12/finance/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/blog/2017/02/12/finance/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Open positions: We are looking for enthusiastic UBC students to help with the team&amp;rsquo;s finances and sponsorship activities. Email us and let&amp;rsquo;s chat! captain@ubcchemecar.com&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;backstory&#34;&gt;Backstory&lt;/h1&gt;
+
+&lt;p&gt;Last summer, we received an interesting e-mail from the &lt;a href=&#34;http://uoftchemecar.com&#34;&gt;UofT Chem-E-Car&lt;/a&gt; team. They&amp;rsquo;ve just officially launched as a design team and wanted to know more about our team&amp;rsquo;s financial structure. Here&amp;rsquo;s what we shared with them.&lt;/p&gt;
+
+&lt;h2 id=&#34;department-funding&#34;&gt;Department Funding&lt;/h2&gt;
+
+&lt;p&gt;We maintain a very close and important relationship with UBC&amp;rsquo;s Chemical &amp;amp; Biological Engineering department. They provide us with lab space and machine shop services and with our delivery/storage logistics and financial accounts. Occasionally, we borrow small quantities of chemicals and use equipment in department labs. As a team, we contribute back to the department by maintaining a strong and active presence at various department events, i.e. orientation day, annual engineering open house or department-hosted high school outreach programs. We receive ad hoc department funding for certain events (i.e. materials or posters for open houses, occasional travel funding and assistance) but that is currently not a significant portion of our operating budget.&lt;/p&gt;
+
+&lt;h2 id=&#34;paf-funding&#34;&gt;PAF Funding&lt;/h2&gt;
+
+&lt;p&gt;As with all engineering teams on campus, our activities are primarily funded by the UBC Faculty of Applied Science&amp;rsquo;s &lt;a href=&#34;http://paf.engineering.ubc.ca/&#34;&gt;Professional Activities Fund (PAF)&lt;/a&gt;. Aside from PAF, we do receive funding from several other UBC sources, namely:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://amssustainability.ca/&#34;&gt;AMS Sustainability Fund&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://students.engineering.ubc.ca/career/professional-development/self/&#34;&gt;Shell Canada Experiential Learning Fund&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://vpstudents.ubc.ca/walter-gage&#34;&gt;UBC Walter Gage fund&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We always keep an eye out for any other possible funding opportunities from UBC. It&amp;rsquo;s also a good idea to make a note of deadlines for UBC funding sources, several of them operate on a monthly/biweekly application cycle, and some have a strict annual deadline. You should also start early in preparing your funding applications. Our team&amp;rsquo;s funding paperwork preparation (i.e. proposal writing, budgets and annual reporting) takes up a significant amount of time from our main activities.&lt;/p&gt;
+
+&lt;h2 id=&#34;sponsorship&#34;&gt;Sponsorship&lt;/h2&gt;
+
+&lt;p&gt;From our experience, we find that businesses are usually reluctant to provide cash contributions, but will be more receptive to in-kind contributions and requests for specific items. Cold emailing and cold calls usually don&amp;rsquo;t work for us (as of February 2017, but we are trying some new strategies this term!). We also find that our sponsorship requests are usually most successful when we get a chance to talk to the company&amp;rsquo;s representatives face-to-face at conferences or local exhibitions (i.e. Maker Faire).&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;d recommend preparing a sponsorship package before approaching businesses (&lt;a href=&#34;http://www.ubcchemecar.com/sponsors/&#34;&gt;http://www.ubcchemecar.com/sponsors/&lt;/a&gt;). Big thanks to our APSC Development and Alumni Relations Office. They help us with sponsorship strategies and prepare official tax receipts, business acknowledgement letters and donor thank you messages: &lt;a href=&#34;https://apsc.ubc.ca/giving/contact-us&#34;&gt;https://apsc.ubc.ca/giving/contact-us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A big thanks to our awesome corporate sponsors this year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.botfeeder.ca/&#34;&gt;BotFeeder&lt;/a&gt; for giving us enough 3D printing filaments to last a whole year&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mgchemicals.com&#34;&gt;MG Chemicals&lt;/a&gt; for providing coatings, sprays and epoxy etc. for our projects&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt; for providing server credits for our software and web-based projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Special thanks to our biggest supporter and Exclusive Diamond Sponsor, the &lt;a href=&#34;https://www.facebook.com/danielfamilyfoundation/&#34;&gt;Daniel Family Foundation&lt;/a&gt; for funding our energy projects.&lt;/p&gt;
+
+&lt;h2 id=&#34;finance-app&#34;&gt;Finance App&lt;/h2&gt;
+
+&lt;p&gt;Our home department suggested that we make our expenses available to the public for great transparency and accountability. We launched a &lt;a href=&#34;http://finance.ubcchemecar.com&#34;&gt;Rails web app&lt;/a&gt; for tracking purchases. There&amp;rsquo;s still a lot of work to be done on improving the app, especially on the data visualization part but it&amp;rsquo;s a good start!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chem-E-Car Electrical System</title>
+      <link>http://www.ubcchemecar.com/blog/2017/02/11/elecsystem/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/blog/2017/02/11/elecsystem/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;In the “Chem-E-Car Reaction Mechanism” article, Jayg and Josh talk about the iodine clock reaction and how a light-dependent resistor (LDR) is part of the stopping mechanism. The LDR changes electrical resistance depending on how much light is hitting it; as light intensity increases, resistance drops, and vice versa. Theoretically, if we shone light on an LDR in an iodine solution as its colour went dark, light intensity as measured at the LDR’s surface would fall. This is the basis of our stopping mechanism.&lt;/p&gt;
+
+&lt;h2 id=&#34;system-overview&#34;&gt;System Overview&lt;/h2&gt;
+
+&lt;p&gt;Our system consists of two main circuits, a MOSFET (N-channel transistor) circuit and an LDR circuit. The transistor circuit is used to control LEDs that are held in place within the reaction vessel, and the LDR circuit controls LDRs used for the stopping mechanism. Both circuits are connected to our Arduino microcontroller, which is central to the electrical system. Below is a basic diagram for the system:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/elecsystem/elec1.png&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; the Arduino board is also connected to the motor of the car via another MOSFET, which is not shown in the circuit diagram.&lt;/p&gt;
+
+&lt;p&gt;In terms of software, our team mostly used Arduino to generate and test the codes for the car. I also used Eagle software to design the circuit diagram above, and to create an effective circuit that can be printed on a circuit board.&lt;/p&gt;
+
+&lt;h2 id=&#34;mosfet-circuit&#34;&gt;MOSFET Circuit&lt;/h2&gt;
+
+&lt;p&gt;The MOSFET circuit connects our LEDs to the Arduino. The Arduino board works with a fairly small current, and so when the voltage across the LDRs changes during the stopping mechanism, the difference between voltage readings is small. We can amplify these signals by using a MOSFET, which is the whole idea behind having it in the circuit. With a big enough voltage difference, the risk of stopping at the wrong time is greatly reduced.&lt;/p&gt;
+
+&lt;p&gt;As shown in the diagram, the MOSFET has its gate pin connected to an Arduino digital pin (D9-1), its source pin connected to the wire coming from LED1 and LED2, and its drain pin connected to the 5V supply from the Arduino. Physically, the circuit will be on a printed circuit board made in the workshop used by Chem-E-Car, and will be separated from the LDRs as explained below.&lt;/p&gt;
+
+&lt;h2 id=&#34;ldr-circuit&#34;&gt;LDR Circuit&lt;/h2&gt;
+
+&lt;p&gt;Our LDR circuit connects the Arduino to the 2 LDRs, and allows the Arduino to record the voltages across them using its built-in analog pins. Using the analog pins, we set threshold values of voltage which, when crossed, enable the Arduino to cut off power to the motor, which will stop the car.&lt;/p&gt;
+
+&lt;p&gt;The LDRs are placed across from the LEDs in the reaction vessel. This is to allow maximum light exposure from the LEDs, and so the LDRs need to be physically separated from the circuit board.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Brewing* in The Lab?</title>
+      <link>http://www.ubcchemecar.com/blog/2017/02/05/beer2/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/blog/2017/02/05/beer2/</guid>
+      <description>
+
+&lt;p&gt;&lt;small&gt;&lt;strong&gt;*Disclaimer:&lt;/strong&gt; What&amp;rsquo;s brewing, figuratively, not literally. The lab is not food safe, NO FOOD OR DRINKS IN THE LAB!&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;As you may have read in part one, our team is working on an app to automate the brewing of craft beer. To understand the homebrewing process we made a batch of Pacific ESB, an ale that is light with a crisp bitter aftertaste. We made a few mistakes throughout the process (&lt;strong&gt;BURNT GRAINS&lt;/strong&gt;) but learned from those mistakes to make the second batch better.&lt;/p&gt;
+
+&lt;p&gt;What we need to do next is prepare our sensors and electronics. Primarily, the qualities we are looking for are &lt;strong&gt;alcohol content&lt;/strong&gt;, acidity, and temperature. We want to ensure that the data we collect is reliable and accurate for our app and future users so we took the time to work with them and learn them!&lt;/p&gt;
+
+&lt;h2 id=&#34;sensors-and-devices&#34;&gt;Sensors and Devices&lt;/h2&gt;
+
+&lt;p&gt;First is the DS18b20 temperture sensor from Adafruit. This is a 1-wire temperature sensor that is simple and easy too setup. It requires no external components, can be powered by logic level (5V) and like each and everyone of us, it has unique 64 bit serial code stored into its ROM memory. What this means is that we can connect up to 63 device to 1 arduino port. With this configuration protocol we will be hooking up 4 of these sensors to the arduino to measure ambient temperature, the temperature of our cooling device, and the temperature of the brew.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/tempsen.jpg&#34; alt=&#34;Temperature sensor&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adafruit&amp;rsquo;s temperature sensor&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Next we want to measure alcohol content, homebrewers measure the specific gravity of the batch. Since alcohol is less dense than water the specific gravity measurement will be lower after the fermentation process. Our goal will to measure the change in weight of a suspended mass inside the batch. To do so we want a device that measure force applied i.e weight. This is our load cell.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/loadcell.jpg&#34; alt=&#34;Load cell&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sparkfun load cell&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last device in this set is a Thermoelectric cooler, otherwise known as the Peltier plate. A temperature difference between two different metals will create a voltage difference and the converse is true as well. That means, by pumping electricity, we can reach teamperatures as low as -5C and 60C at once. For us this means a system that can heat and cool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/peltier.jpg&#34; alt=&#34;Peltier plate&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Peltier Plate&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;Our goal was to make sure all of our equipment was working and seeing if anything needed calibration. Then we wanted to create a test situation where we would use the peltier plate to cool water while wew measured the temperature and weight of the water.&lt;/p&gt;
+
+&lt;p&gt;One of the first drawbacks is that the Load cell did not work. Data was not being sent and the values we had were ridiculous.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/test1.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Load Cell Wiring&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The temperature sensors went much better.  The design of the sensor was plug &amp;amp; play and we were getting data fast and accurately in minutes. Chaining them in series took some time. We had to get to know each and everyone of them and their adresses but it worked and worked without a hitch it did.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/test2.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Two temperature sensors here measure ambient temperature and water temperature&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So when you have a pelteir plate one side heats up and the other side cools. So one issue is that the heat from the hot side will seep into the cold side thus losing efficiency. To rectify that we added a heatsinkand a fan to the hot side so the heat dissapates faster. On the other side we had it hooked up to a small container of water in which we ran through a pump.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/peltierconfig.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The system here shows the heatsink, fan and peltier and water unit.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the full setup that we have:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/fullsetup.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete configuration&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We run water through a small tank that gets cooled by the peliter plate. Simple! Well it rarely is.  The water wasn&amp;rsquo;t cooling. With numerous factors.&lt;/p&gt;
+
+&lt;p&gt;Our peltier plate wasnt heating at it maximum potential. The power supply we used is only rated for maximum of 3 amps. This only lowered our temperature on the cold side of the pletier plate to about 10°C&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/voltage.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Current limitations&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In our preliminary test we simply put the heatsink on top of the peltier plate and the plate to the water tank. This configuration does not transfer heat well at all due to the uneven surfaces.
+Lastly, The water cooling tank was too small for a flowrate that was too fast. The water didn&amp;rsquo;t have time to actually get cold before moving out of the tank.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;All in all the goal of testing or sensors was done. We are going to need a new laod cell or figure out whats wrong with this one. The temperature sensors work well. We just need to figure out some more design parameters before we make the real thing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2016: A year in review</title>
@@ -63,6 +234,170 @@
 &lt;li&gt;2015 UBC Imagine Day exhibition for first year students&lt;/li&gt;
 &lt;li&gt;2015 UBC Jump Start - Engineering Design Team Introductions&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Members Infopack</title>
+      <link>http://www.ubcchemecar.com/infopack/</link>
+      <pubDate>Mon, 30 Jan 2017 02:07:51 -0800</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/infopack/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;prospective-members-readme&#34;&gt;Prospective Members Readme&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Expectations and general information for new members&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UBC Chem-E-Car has four main sub-teams: Electrical, Mechanical, Battery and Chemical. You can be involved with one or more sub-teams. Our team leads have listed some tutorials below that they would like our new members to try out. Feel free to contact them if you need help.&lt;/li&gt;
+&lt;li&gt;We also have some side projects: beer brewing, zinc-air flow cells etc. if you&amp;rsquo;re interested in those.&lt;/li&gt;
+&lt;li&gt;Our regular meeting hours for the current academic term are listed in the &lt;a href=&#34;http://www.ubcchemecar.com/contact/&#34;&gt;&lt;b&gt;Contact&lt;/b&gt; page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We value passion, commitment and dedication over prior technical experience. We will &lt;b&gt;never&lt;/b&gt; turn away anyone who&amp;rsquo;s genuinely interested in learning and contributing to the team.&lt;/li&gt;
+&lt;li&gt;As a student-driven team, we understand that academics and schoolwork will be your first priority, and we do not expect you to work on our design team projects &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; and neglect your assignments.&lt;/li&gt;
+&lt;li&gt;To be a valuable contributor to the team, you should have a strong sense of responsibility and the ability to work independently with minimal supervision. Your team lead can provide guidance and point you in the right direction, but you are expected to take charge of your own projects.&lt;/li&gt;
+&lt;li&gt;If you accept a task from your team lead, we do expect you to see it through to completion to the best of your ability, and within a reasonable amount of time.&lt;/li&gt;
+&lt;li&gt;We &lt;b&gt;really&lt;/b&gt; appreciate proactiveness. If a certain job needs to be completed and you can manage it, please take initiative and volunteer! If you think something can be done in a better way, teach us! Everyone is here to learn, irrespective of whether they&amp;rsquo;ve been with the team for 5 years or 5 weeks.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;We want to stress that: &lt;/b&gt; if you have an empty plate and need more stuff to work on, &lt;b&gt;do not hesitate ask&lt;/b&gt;! We always have proposals that need to be written, posters that need to be designed, sponsors to be contacted and many other tasks that need to be completed.&lt;/li&gt;
+&lt;li&gt;Most students would consider joining an engineering design team to be a big commitment, and we tend to agree. Feel free to just drop by our regular meetings or events to explore our projects and your options, absolutely no pressure to commit for the whole term/year!&lt;/li&gt;
+&lt;li&gt;We want everyone to learn new skills through our projects and have fun working in a team. But it is important to note that ultimately, your personal experience and what you get out of the team is what you put in.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;electrical-tutorials&#34;&gt;Electrical Tutorials&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Contact Ngai To at logistics@ubcchemecar.com for questions or if you want to join the electrical team.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The consensus is to focus on software skills, i.e. Arduino and general coding.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mandatory&lt;/strong&gt;
+- Work through these introductory software and web development tutorials as fast as you can, let us know in the group chat if you get stuck. &lt;a href=&#34;https://github.com/ubcchemecar/beginners-tutorial&#34;&gt;Available on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you haven&amp;rsquo;t, please download the latest version of Arduino: &lt;a href=&#34;https://www.arduino.cc/en/Main/Software&#34;&gt;Download the Arduino Software&lt;/a&gt; and take a look at the coding for an encoder wheel. You can &lt;a href=&#34;http://machinedesign.com/sensors/basics-rotary-encoders-overview-and-new-technologies-0&#34;&gt;read more here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;mechanical-tutorials&#34;&gt;Mechanical Tutorials&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Contact Kyle at mechanical@ubcchemecar.com for questions or if you want to join the mechanical team.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Try to get as familiar as possible with either Solidworks or Inventor before the next meeting. Note: You&amp;rsquo;ve learned/will be learning Solidworks in First Year Engineering.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download and install Solidworks (caution: 8 GB file) &lt;a href=&#34;http://students.engineering.ubc.ca/success/software/&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Download and install Inventor (caution: 15 GB file) &lt;a href=&#34;http://www.autodesk.com/education/free-software/featured&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Note: Chem-E-Car will be using Inventor mainly but will have some projects in Solidwor&lt;/li&gt;
+&lt;li&gt;Solidworks : Please begin learning the program &lt;a href=&#34;https://www.youtube.com/watch?v=cy3ExIAcI2Y&#34;&gt;use this video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Inventor: There is a built in tutorial. Please try to &lt;b&gt;complete tutorial part 1 and 2&lt;/b&gt; in the progr&lt;/li&gt;
+&lt;li&gt;Try doing  &lt;a href=&#34;docs/Alistirmalar.pdf&#34;&gt; excercises up to 2-4 in this pdf&lt;/a&gt; using either Solidworks or Invent&lt;/li&gt;
+&lt;li&gt;Exercise 2-5 is feasible but there are many shortcuts to make the pieces faster. Look up design tables, scale, or drawing relations, if you are interested.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Learn how to make a sphere&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-h2tCWrvaUM &#34;&gt;Solidworks: How to Make a Sphere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=psbjvl6kaH4&#34;&gt;Inventor: How to Make a Sphere&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;battery-and-chemical-tutorials&#34;&gt;Battery and Chemical Tutorials&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Contact Andy or Mani at battery@ubcchemecar.com for both chemical and battery teams&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Please complete the following steps if you&amp;rsquo;re interested in joining the battery or chemical team. Note: we don&amp;rsquo;t expect you to understand EVERYTHING that we want you to read here, we just want you to get a good overview of some basic principles and type of batteries that we&amp;rsquo;ll be working on&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bring a laptop to every meeting if you can, there will be a lot of research and Googling involved in most meetings.&lt;/li&gt;
+&lt;li&gt;Review redox chemistry on ChemGuide &lt;a href=&#34;http://www.chemguide.co.uk/inorganic/redoxmenu.html&#34;&gt;http://www.chemguide.co.uk/inorganic/redoxmenu.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review the offical AIChE competition and safety rules &lt;a href=&#34;http://www.aiche.org/chem-e-car-competitionr-rules&#34;&gt;http://www.aiche.org/chem-e-car-competitionr-rules&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;battery&#34;&gt;Battery&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read Chapter 13 and 38.3 on Zn-Air batteries in Linden&amp;rsquo;s Handbook of Batteries (Google around for a free PDF if the link doesn&amp;rsquo;t work) &lt;a href=&#34;http://www.etf.unssa.rs.ba/~slubura/diplomski_radovi/Zavrsni_rad_MarkoSilj/Literatura/Handbook%20Of%20Batteries%203rd%20Edition.pdf&#34;&gt;PDF Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read Chapter 31 on Nickel-Zinc batteries in Linden&amp;rsquo;s Handbook of Batteries &lt;a href=&#34;http://www.etf.unssa.rs.ba/~slubura/diplomski_radovi/Zavrsni_rad_MarkoSilj/Literatura/Handbook%20Of%20Batteries%203rd%20Edition.pdf&#34;&gt;PDF Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;chemical&#34;&gt;Chemical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read up on the Iodine Clock Reaction: &lt;a href=&#34;http://imaginationstationtoledo.org/content/2012/06/the-iodine-clock-reaction/&#34;&gt;Click This Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;web-development-and-software-tutorials&#34;&gt;Web Development and Software Tutorials&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Contact Siang at admin@ubcchemecar.com&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in web development, complete the following steps.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/join&#34;&gt;Sign up&lt;/a&gt; for a GitHub account&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html&#34;&gt;Setup Git&lt;/a&gt; on your machine.&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://www.learnenough.com/git-tutorial&#34;&gt;Learn Enough Git tutorial&lt;/a&gt; and understand the basics. You may also want to read their Command Line tutorial and Text Editor tutorial if you&amp;rsquo;re unfamiliar with those tools.&lt;/li&gt;
+&lt;li&gt;Email &lt;b&gt;Siang at admin@ubcchemecar.com &lt;/b&gt; for further instructions once you feel comfortable with the basics. Feel free to email too if you have any questions along the way.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;beginners-start-here&#34;&gt;Beginners, start here!&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.yourhtmlsource.com/starthere/whatishtml.html&#34;&gt;Find out what is HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learnenough.com/command-line-tutorial&#34;&gt;Learn Enough Command Line To Be Dangerous&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://html.net/tutorials/css/lesson1.php&#34;&gt;Find out what is CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;the-bootstrap-framework&#34;&gt;The Bootstrap framework&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/&#34;&gt;Introduction to Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=no-Ntkc836w&#34;&gt;Excellent 15-minute YouTube tutorial on Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;git&#34;&gt;Git&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0fKg7e37bQE&#34;&gt;What the heck is Github?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.learnenough.com/git-tutorial&#34;&gt;Learn Enough Git To Be Dangerous&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;web-fundamentals&#34;&gt;Web Fundamentals&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/web/fundamentals/&#34;&gt;https://developers.google.com/web/fundamentals/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;administration&#34;&gt;Administration&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Contact Thanos or Siang - captain@ubcchemecar.com&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We&amp;rsquo;re always looking for people to help out with sponsorship, finances, lab and workspace management, marketing and lots of other important administrative stuff that keeps the team well-funded and running smoothly. Contact us if you&amp;rsquo;d like to help out.&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
     </item>
     
@@ -660,262 +995,6 @@ chart.draw(data, {allowHtml:true, &#39;size&#39;: &#39;large&#39;});
     </item>
     
     <item>
-      <title>New Members Infopack</title>
-      <link>http://www.ubcchemecar.com/infopack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ubcchemecar.com/infopack/</guid>
-      <description>
-
-&lt;h2 id=&#34;ubc-chem-e-car-team-open-recruitment-policy&#34;&gt;UBC Chem-E-Car Team: Open Recruitment Policy&lt;/h2&gt;
-
-&lt;h4 id=&#34;we-take-in-new-members-undergrad-and-grad-all-year-round-all-skill-levels-departments-and-faculties-welcomed&#34;&gt;We take in new members (undergrad and grad) all year round. All skill levels, departments and faculties welcomed.&lt;/h4&gt;
-
-&lt;p&gt;Zero experience? No problem! If you&amp;rsquo;re interested in joining the team, please read on.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;0-next-steps&#34;&gt;0. Next Steps&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Questions: Junior Team Captains - Abhi and Victor at &lt;a href=mailto:juniorlead@ubcchemecar.com&gt;juniorlead@ubcchemecar.com&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in joining the team, please read this page carefully.&lt;/p&gt;
-
-&lt;h4 id=&#34;important-notes&#34;&gt;Important notes:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Make sure that you &lt;strong&gt;sign up for the mailing list&lt;/strong&gt; below.&lt;/li&gt;
-&lt;li&gt;UBC Chem-E-Car has four main sub-teams: Electrical, Mechanical, Battery and Chemical. You can be involved with one or more sub-teams. Our team leads have listed some tutorials below that they would like our new members to try out. Feel free to contact them if you need help.&lt;/li&gt;
-&lt;li&gt;Email the Junior Team Captains, Abhi and Victor and introduce yourself, they&amp;rsquo;ll provide you with more information on meeting times and answer any questions that you may have.&lt;/li&gt;
-&lt;li&gt;Complete your safety certificates as soon as you can. You are still very welcomed to attend our meetings if you haven&amp;rsquo;t completed them, but you won&amp;rsquo;t be able to participate in any hands-on workshop or lab activities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;1-prospective-members-readme&#34;&gt;1. Prospective Members Readme&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Expectations and general information for new members&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Our regular meeting hours for the current academic term are listed in the &lt;a href=&#34;http://www.ubcchemecar.com/contact/&#34;&gt;&lt;b&gt;Contact&lt;/b&gt; page&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;We value passion, commitment and dedication over prior technical experience. We will &lt;b&gt;never&lt;/b&gt; turn away anyone who&amp;rsquo;s genuinely interested in learning and contributing to the team.&lt;/li&gt;
-&lt;li&gt;As a student-driven team, we understand that academics and schoolwork will be your first priority, and we do not expect you to work on our design team projects &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; and neglect your assignments.&lt;/li&gt;
-&lt;li&gt;To be a valuable contributor to the team, you should have a strong sense of responsibility and the ability to work independently with minimal supervision. Your team lead can provide guidance and point you in the right direction, but you are expected to take charge of your own projects.&lt;/li&gt;
-&lt;li&gt;If you accept a task from your team lead, we do expect you to see it through to completion to the best of your ability, and within a reasonable amount of time.&lt;/li&gt;
-&lt;li&gt;We &lt;b&gt;really&lt;/b&gt; appreciate proactiveness. If a certain job needs to be completed and you can manage it, please take initiative and volunteer! If you think something can be done in a better way, teach us! Everyone is here to learn, irrespective of whether they&amp;rsquo;ve been with the team for 5 years or 5 weeks.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;We want to stress that: &lt;/b&gt; if you have an empty plate and need more stuff to work on, &lt;b&gt;do not hesitate ask&lt;/b&gt;! We always have proposals that need to be written, posters that need to be designed, sponsors to be contacted and many other tasks that need to be completed.&lt;/li&gt;
-&lt;li&gt;Most students would consider joining an engineering design team to be a big commitment, and we tend to agree. Feel free to just drop by our regular meetings or events to explore our projects and your options, absolutely no pressure to commit for the whole term/year!&lt;/li&gt;
-&lt;li&gt;We want everyone to learn new skills through our projects and have fun working in a team. But it is important to note that ultimately, your personal experience and what you get out of the team is what you put in.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;2-sign-up-for-the-mailing-list&#34;&gt;2. Sign Up For the Mailing List&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;New and prospective members: Please sign up for the mailing list before you do anything else.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;!-- Begin MailChimp Signup Form --&gt;
-
-&lt;p&gt;&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/classic-10_7.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-#mc_embed_signup{background:#ffe; clear:left; font:14px Helvetica,Arial,sans-serif; }
-&lt;/style&gt;
-&lt;div id=&#34;mc_embed_signup&#34;&gt;
-&lt;form action=&#34;//ubcchemecar.us11.list-manage.com/subscribe/post?u=919b72f1aaf70072354dd9010&amp;amp;id=fb55bcb4c5&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
-&lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
-&lt;h2&gt;UBC Chem-E-Car Mailing List&lt;/h2&gt;
-  &lt;div class=&#34;indicates-required&#34;&gt;&lt;span class=&#34;asterisk&#34;&gt;&lt;em&gt;&lt;/span&gt; indicates required&lt;/div&gt;
-  &lt;div class=&#34;mc-field-group&#34;&gt;
-&lt;label for=&#34;mce-EMAIL&#34;&gt;Email Address  &lt;span class=&#34;asterisk&#34;&gt;&lt;/em&gt;&lt;/span&gt;
-  &lt;/label&gt;
-&lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;required email&#34; id=&#34;mce-EMAIL&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;mc-field-group&#34;&gt;
-&lt;label for=&#34;mce-FNAME&#34;&gt;First Name &lt;/label&gt;
-&lt;input type=&#34;text&#34; value=&#34;&#34; name=&#34;FNAME&#34; class=&#34;&#34; id=&#34;mce-FNAME&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;mc-field-group&#34;&gt;
-&lt;label for=&#34;mce-LNAME&#34;&gt;Last Name &lt;/label&gt;
-&lt;input type=&#34;text&#34; value=&#34;&#34; name=&#34;LNAME&#34; class=&#34;&#34; id=&#34;mce-LNAME&#34;&gt;
-  &lt;/div&gt;
-&lt;div id=&#34;mce-responses&#34; class=&#34;clear&#34;&gt;
-  &lt;div class=&#34;response&#34; id=&#34;mce-error-response&#34; style=&#34;display:none&#34;&gt;&lt;/div&gt;
-  &lt;div class=&#34;response&#34; id=&#34;mce-success-response&#34; style=&#34;display:none&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;    &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
-  &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_919b72f1aaf70072354dd9010_fb55bcb4c5&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
-  &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;/form&gt;
-  &lt;/div&gt;
-  &lt;script type=&#39;text/javascript&#39; src=&#39;//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js&#39;&gt;&lt;/script&gt;&lt;script type=&#39;text/javascript&#39;&gt;(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=&amp;lsquo;EMAIL&amp;rsquo;;ftypes[0]=&amp;lsquo;email&amp;rsquo;;fnames[1]=&amp;lsquo;FNAME&amp;rsquo;;ftypes[1]=&amp;lsquo;text&amp;rsquo;;fnames[2]=&amp;lsquo;LNAME&amp;rsquo;;ftypes[2]=&amp;lsquo;text&amp;rsquo;;}(jQuery));var $mcj = jQuery.noConflict(true);&lt;/script&gt;
-  &lt;!--End mc_embed_signup--&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;3-safety-certificates&#34;&gt;3. Safety Certificates&lt;/h2&gt;
-
-&lt;p&gt;Complete the following &lt;a href=&#34;https://www.hse2.ubc.ca/moodle/course/&#34;&gt;ONLINE SAFETY QUIZZES&lt;/a&gt; provided by UBC Risk Management Services. To gain access to our lab and workshop space, please &lt;b&gt;print out a hardcopy of these certificates&lt;/b&gt; and pass it to Negar (safety officer) at the next meeting. You can still attend our meetings but you won&amp;rsquo;t have lab or workshop access if you don&amp;rsquo;t complete these certificates. You&amp;rsquo;ll also need to register as an AIChE (American Institute of Chemical Engineers) student member and pass the AIChE safety quiz to compete in any Chem-E-Car competition organized by AIChE.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Mandatory Certificates, COMPLETE ASAP&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Engineering Design Team Safety Orientation&lt;/li&gt;
-&lt;li&gt;Preventing and Addressing Workplace Bullying and Harassment&lt;/li&gt;
-&lt;li&gt;Chemical Safety Course&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;AIChE Registration and Safety Test, COMPLETE ASAP&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Complete the &lt;a href=&#34;http://www.aiche.org/community/students/chem-e-car-competition-rules/safety-training-test&#34;&gt;Chem-E-Car Competition® Safety Training Test&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sign up for a FREE AIChE student membership &lt;a href=&#34;http://www.aiche.org/community/students/student-membership&#34;&gt;AIChE Registration Link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;4-electrical-tutorials&#34;&gt;4. Electrical Tutorials&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Contact Ngai To at logistics@ubcchemecar.com for questions or if you want to join the electrical team.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The consensus is to focus on software skills, i.e. Arduino and general coding.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mandatory&lt;/strong&gt;
-- Work through these introductory software and web development tutorials as fast as you can, let us know in the group chat if you get stuck. &lt;a href=&#34;https://github.com/ubcchemecar/beginners-tutorial&#34;&gt;Available on GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If you haven&amp;rsquo;t, please download the latest version of Arduino: &lt;a href=&#34;https://www.arduino.cc/en/Main/Software&#34;&gt;Download the Arduino Software&lt;/a&gt; and take a look at the coding for an encoder wheel. You can &lt;a href=&#34;http://machinedesign.com/sensors/basics-rotary-encoders-overview-and-new-technologies-0&#34;&gt;read more here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;5-mechanical-tutorials&#34;&gt;5. Mechanical Tutorials&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Contact Kyle at mechanical@ubcchemecar.com for questions or if you want to join the mechanical team.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Try to get as familiar as possible with either Solidworks or Inventor before the next meeting. Note: You&amp;rsquo;ve learned/will be learning Solidworks in First Year Engineering.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Download and install Solidworks (caution: 8 GB file) &lt;a href=&#34;http://students.engineering.ubc.ca/success/software/&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Download and install Inventor (caution: 15 GB file) &lt;a href=&#34;http://www.autodesk.com/education/free-software/featured&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Note: Chem-E-Car will be using Inventor mainly but will have some projects in Solidwor&lt;/li&gt;
-&lt;li&gt;Solidworks : Please begin learning the program &lt;a href=&#34;https://www.youtube.com/watch?v=cy3ExIAcI2Y&#34;&gt;use this video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Inventor: There is a built in tutorial. Please try to &lt;b&gt;complete tutorial part 1 and 2&lt;/b&gt; in the progr&lt;/li&gt;
-&lt;li&gt;Try doing  &lt;a href=&#34;docs/Alistirmalar.pdf&#34;&gt; excercises up to 2-4 in this pdf&lt;/a&gt; using either Solidworks or Invent&lt;/li&gt;
-&lt;li&gt;Exercise 2-5 is feasible but there are many shortcuts to make the pieces faster. Look up design tables, scale, or drawing relations, if you are interested.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Learn how to make a sphere&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-h2tCWrvaUM &#34;&gt;Solidworks: How to Make a Sphere&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=psbjvl6kaH4&#34;&gt;Inventor: How to Make a Sphere&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;6-battery-and-chemical-tutorials&#34;&gt;6. Battery and Chemical Tutorials&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Contact Andy or Mani at battery@ubcchemecar.com for both chemical and battery teams&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Please complete the following steps if you&amp;rsquo;re interested in joining the battery or chemical team. Note: we don&amp;rsquo;t expect you to understand EVERYTHING that we want you to read here, we just want you to get a good overview of some basic principles and type of batteries that we&amp;rsquo;ll be working on&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bring a laptop to every meeting if you can, there will be a lot of research and Googling involved in most meetings.&lt;/li&gt;
-&lt;li&gt;Review redox chemistry on ChemGuide &lt;a href=&#34;http://www.chemguide.co.uk/inorganic/redoxmenu.html&#34;&gt;http://www.chemguide.co.uk/inorganic/redoxmenu.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review the offical AIChE competition and safety rules &lt;a href=&#34;http://www.aiche.org/chem-e-car-competitionr-rules&#34;&gt;http://www.aiche.org/chem-e-car-competitionr-rules&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;battery&#34;&gt;Battery&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Read Chapter 13 and 38.3 on Zn-Air batteries in Linden&amp;rsquo;s Handbook of Batteries (Google around for a free PDF if the link doesn&amp;rsquo;t work) &lt;a href=&#34;http://www.etf.unssa.rs.ba/~slubura/diplomski_radovi/Zavrsni_rad_MarkoSilj/Literatura/Handbook%20Of%20Batteries%203rd%20Edition.pdf&#34;&gt;PDF Link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Read Chapter 31 on Nickel-Zinc batteries in Linden&amp;rsquo;s Handbook of Batteries &lt;a href=&#34;http://www.etf.unssa.rs.ba/~slubura/diplomski_radovi/Zavrsni_rad_MarkoSilj/Literatura/Handbook%20Of%20Batteries%203rd%20Edition.pdf&#34;&gt;PDF Link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;chemical&#34;&gt;Chemical&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Read up on the Iodine Clock Reaction: &lt;a href=&#34;http://imaginationstationtoledo.org/content/2012/06/the-iodine-clock-reaction/&#34;&gt;Click This Link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;7-web-development-and-software-tutorials&#34;&gt;7. Web Development and Software Tutorials&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Contact Siang at admin@ubcchemecar.com&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in web development, complete the following steps.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/join&#34;&gt;Sign up&lt;/a&gt; for a GitHub account&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html&#34;&gt;Setup Git&lt;/a&gt; on your machine.&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://www.learnenough.com/git-tutorial&#34;&gt;Learn Enough Git tutorial&lt;/a&gt; and understand the basics. You may also want to read their Command Line tutorial and Text Editor tutorial if you&amp;rsquo;re unfamiliar with those tools.&lt;/li&gt;
-&lt;li&gt;Email &lt;b&gt;Siang at admin@ubcchemecar.com &lt;/b&gt; for further instructions once you feel comfortable with the basics. Feel free to email too if you have any questions along the way.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;beginners-start-here&#34;&gt;Beginners, start here!&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yourhtmlsource.com/starthere/whatishtml.html&#34;&gt;Find out what is HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.learnenough.com/command-line-tutorial&#34;&gt;Learn Enough Command Line To Be Dangerous&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://html.net/tutorials/css/lesson1.php&#34;&gt;Find out what is CSS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;the-bootstrap-framework&#34;&gt;The Bootstrap framework&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/&#34;&gt;Introduction to Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=no-Ntkc836w&#34;&gt;Excellent 15-minute YouTube tutorial on Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;git&#34;&gt;Git&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0fKg7e37bQE&#34;&gt;What the heck is Github?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.learnenough.com/git-tutorial&#34;&gt;Learn Enough Git To Be Dangerous&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;web-fundamentals&#34;&gt;Web Fundamentals&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.google.com/web/fundamentals/&#34;&gt;https://developers.google.com/web/fundamentals/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;8-administration&#34;&gt;8. Administration&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Contact Thanos or Siang - captain@ubcchemecar.com&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We&amp;rsquo;re always looking for people to help out with sponsorship, finances, lab and workspace management, marketing and lots of other important administrative stuff that keeps the team well-funded and running smoothly. Contact us if you&amp;rsquo;d like to help out.&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Sponsorship</title>
       <link>http://www.ubcchemecar.com/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -925,27 +1004,6 @@ chart.draw(data, {allowHtml:true, &#39;size&#39;: &#39;large&#39;});
 
 &lt;h2 id=&#34;2016-2017-sponsorship-package-docs-ubc-chem-e-car-2016-2017-pdf&#34;&gt;&lt;a href=&#34;http://www.ubcchemecar.com/docs/UBC_Chem-E-Car_2016-2017.pdf&#34;&gt;2016-2017 Sponsorship Package&lt;/a&gt;&lt;/h2&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>http://www.ubcchemecar.com/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ubcchemecar.com/team/</guid>
-      <description>
-
-&lt;h2 id=&#34;view-orgchart-orgchart&#34;&gt;&lt;a href=&#34;http://www.ubcchemecar.com/orgchart/&#34;&gt;View Orgchart&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>orgchart</title>
-      <link>http://www.ubcchemecar.com/orgchart/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ubcchemecar.com/orgchart/</guid>
-      <description></description>
     </item>
     
   </channel>

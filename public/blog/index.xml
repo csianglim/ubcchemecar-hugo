@@ -7,8 +7,179 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (C) 2017 UBC Chem-E-Car. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.ubcchemecar.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Do You Even Budget?</title>
+      <link>http://www.ubcchemecar.com/blog/2017/02/12/finance/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/blog/2017/02/12/finance/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Open positions: We are looking for enthusiastic UBC students to help with the team&amp;rsquo;s finances and sponsorship activities. Email us and let&amp;rsquo;s chat! captain@ubcchemecar.com&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;backstory&#34;&gt;Backstory&lt;/h1&gt;
+
+&lt;p&gt;Last summer, we received an interesting e-mail from the &lt;a href=&#34;http://uoftchemecar.com&#34;&gt;UofT Chem-E-Car&lt;/a&gt; team. They&amp;rsquo;ve just officially launched as a design team and wanted to know more about our team&amp;rsquo;s financial structure. Here&amp;rsquo;s what we shared with them.&lt;/p&gt;
+
+&lt;h2 id=&#34;department-funding&#34;&gt;Department Funding&lt;/h2&gt;
+
+&lt;p&gt;We maintain a very close and important relationship with UBC&amp;rsquo;s Chemical &amp;amp; Biological Engineering department. They provide us with lab space and machine shop services and with our delivery/storage logistics and financial accounts. Occasionally, we borrow small quantities of chemicals and use equipment in department labs. As a team, we contribute back to the department by maintaining a strong and active presence at various department events, i.e. orientation day, annual engineering open house or department-hosted high school outreach programs. We receive ad hoc department funding for certain events (i.e. materials or posters for open houses, occasional travel funding and assistance) but that is currently not a significant portion of our operating budget.&lt;/p&gt;
+
+&lt;h2 id=&#34;paf-funding&#34;&gt;PAF Funding&lt;/h2&gt;
+
+&lt;p&gt;As with all engineering teams on campus, our activities are primarily funded by the UBC Faculty of Applied Science&amp;rsquo;s &lt;a href=&#34;http://paf.engineering.ubc.ca/&#34;&gt;Professional Activities Fund (PAF)&lt;/a&gt;. Aside from PAF, we do receive funding from several other UBC sources, namely:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://amssustainability.ca/&#34;&gt;AMS Sustainability Fund&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://students.engineering.ubc.ca/career/professional-development/self/&#34;&gt;Shell Canada Experiential Learning Fund&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://vpstudents.ubc.ca/walter-gage&#34;&gt;UBC Walter Gage fund&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We always keep an eye out for any other possible funding opportunities from UBC. It&amp;rsquo;s also a good idea to make a note of deadlines for UBC funding sources, several of them operate on a monthly/biweekly application cycle, and some have a strict annual deadline. You should also start early in preparing your funding applications. Our team&amp;rsquo;s funding paperwork preparation (i.e. proposal writing, budgets and annual reporting) takes up a significant amount of time from our main activities.&lt;/p&gt;
+
+&lt;h2 id=&#34;sponsorship&#34;&gt;Sponsorship&lt;/h2&gt;
+
+&lt;p&gt;From our experience, we find that businesses are usually reluctant to provide cash contributions, but will be more receptive to in-kind contributions and requests for specific items. Cold emailing and cold calls usually don&amp;rsquo;t work for us (as of February 2017, but we are trying some new strategies this term!). We also find that our sponsorship requests are usually most successful when we get a chance to talk to the company&amp;rsquo;s representatives face-to-face at conferences or local exhibitions (i.e. Maker Faire).&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;d recommend preparing a sponsorship package before approaching businesses (&lt;a href=&#34;http://www.ubcchemecar.com/sponsors/&#34;&gt;http://www.ubcchemecar.com/sponsors/&lt;/a&gt;). Big thanks to our APSC Development and Alumni Relations Office. They help us with sponsorship strategies and prepare official tax receipts, business acknowledgement letters and donor thank you messages: &lt;a href=&#34;https://apsc.ubc.ca/giving/contact-us&#34;&gt;https://apsc.ubc.ca/giving/contact-us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A big thanks to our awesome corporate sponsors this year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.botfeeder.ca/&#34;&gt;BotFeeder&lt;/a&gt; for giving us enough 3D printing filaments to last a whole year&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mgchemicals.com&#34;&gt;MG Chemicals&lt;/a&gt; for providing coatings, sprays and epoxy etc. for our projects&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt; for providing server credits for our software and web-based projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Special thanks to our biggest supporter and Exclusive Diamond Sponsor, the &lt;a href=&#34;https://www.facebook.com/danielfamilyfoundation/&#34;&gt;Daniel Family Foundation&lt;/a&gt; for funding our energy projects.&lt;/p&gt;
+
+&lt;h2 id=&#34;finance-app&#34;&gt;Finance App&lt;/h2&gt;
+
+&lt;p&gt;Our home department suggested that we make our expenses available to the public for great transparency and accountability. We launched a &lt;a href=&#34;http://finance.ubcchemecar.com&#34;&gt;Rails web app&lt;/a&gt; for tracking purchases. There&amp;rsquo;s still a lot of work to be done on improving the app, especially on the data visualization part but it&amp;rsquo;s a good start!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chem-E-Car Electrical System</title>
+      <link>http://www.ubcchemecar.com/blog/2017/02/11/elecsystem/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/blog/2017/02/11/elecsystem/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;In the “Chem-E-Car Reaction Mechanism” article, Jayg and Josh talk about the iodine clock reaction and how a light-dependent resistor (LDR) is part of the stopping mechanism. The LDR changes electrical resistance depending on how much light is hitting it; as light intensity increases, resistance drops, and vice versa. Theoretically, if we shone light on an LDR in an iodine solution as its colour went dark, light intensity as measured at the LDR’s surface would fall. This is the basis of our stopping mechanism.&lt;/p&gt;
+
+&lt;h2 id=&#34;system-overview&#34;&gt;System Overview&lt;/h2&gt;
+
+&lt;p&gt;Our system consists of two main circuits, a MOSFET (N-channel transistor) circuit and an LDR circuit. The transistor circuit is used to control LEDs that are held in place within the reaction vessel, and the LDR circuit controls LDRs used for the stopping mechanism. Both circuits are connected to our Arduino microcontroller, which is central to the electrical system. Below is a basic diagram for the system:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/elecsystem/elec1.png&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; the Arduino board is also connected to the motor of the car via another MOSFET, which is not shown in the circuit diagram.&lt;/p&gt;
+
+&lt;p&gt;In terms of software, our team mostly used Arduino to generate and test the codes for the car. I also used Eagle software to design the circuit diagram above, and to create an effective circuit that can be printed on a circuit board.&lt;/p&gt;
+
+&lt;h2 id=&#34;mosfet-circuit&#34;&gt;MOSFET Circuit&lt;/h2&gt;
+
+&lt;p&gt;The MOSFET circuit connects our LEDs to the Arduino. The Arduino board works with a fairly small current, and so when the voltage across the LDRs changes during the stopping mechanism, the difference between voltage readings is small. We can amplify these signals by using a MOSFET, which is the whole idea behind having it in the circuit. With a big enough voltage difference, the risk of stopping at the wrong time is greatly reduced.&lt;/p&gt;
+
+&lt;p&gt;As shown in the diagram, the MOSFET has its gate pin connected to an Arduino digital pin (D9-1), its source pin connected to the wire coming from LED1 and LED2, and its drain pin connected to the 5V supply from the Arduino. Physically, the circuit will be on a printed circuit board made in the workshop used by Chem-E-Car, and will be separated from the LDRs as explained below.&lt;/p&gt;
+
+&lt;h2 id=&#34;ldr-circuit&#34;&gt;LDR Circuit&lt;/h2&gt;
+
+&lt;p&gt;Our LDR circuit connects the Arduino to the 2 LDRs, and allows the Arduino to record the voltages across them using its built-in analog pins. Using the analog pins, we set threshold values of voltage which, when crossed, enable the Arduino to cut off power to the motor, which will stop the car.&lt;/p&gt;
+
+&lt;p&gt;The LDRs are placed across from the LEDs in the reaction vessel. This is to allow maximum light exposure from the LEDs, and so the LDRs need to be physically separated from the circuit board.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Brewing* in The Lab?</title>
+      <link>http://www.ubcchemecar.com/blog/2017/02/05/beer2/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ubcchemecar.com/blog/2017/02/05/beer2/</guid>
+      <description>
+
+&lt;p&gt;&lt;small&gt;&lt;strong&gt;*Disclaimer:&lt;/strong&gt; What&amp;rsquo;s brewing, figuratively, not literally. The lab is not food safe, NO FOOD OR DRINKS IN THE LAB!&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;As you may have read in part one, our team is working on an app to automate the brewing of craft beer. To understand the homebrewing process we made a batch of Pacific ESB, an ale that is light with a crisp bitter aftertaste. We made a few mistakes throughout the process (&lt;strong&gt;BURNT GRAINS&lt;/strong&gt;) but learned from those mistakes to make the second batch better.&lt;/p&gt;
+
+&lt;p&gt;What we need to do next is prepare our sensors and electronics. Primarily, the qualities we are looking for are &lt;strong&gt;alcohol content&lt;/strong&gt;, acidity, and temperature. We want to ensure that the data we collect is reliable and accurate for our app and future users so we took the time to work with them and learn them!&lt;/p&gt;
+
+&lt;h2 id=&#34;sensors-and-devices&#34;&gt;Sensors and Devices&lt;/h2&gt;
+
+&lt;p&gt;First is the DS18b20 temperture sensor from Adafruit. This is a 1-wire temperature sensor that is simple and easy too setup. It requires no external components, can be powered by logic level (5V) and like each and everyone of us, it has unique 64 bit serial code stored into its ROM memory. What this means is that we can connect up to 63 device to 1 arduino port. With this configuration protocol we will be hooking up 4 of these sensors to the arduino to measure ambient temperature, the temperature of our cooling device, and the temperature of the brew.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/tempsen.jpg&#34; alt=&#34;Temperature sensor&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adafruit&amp;rsquo;s temperature sensor&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Next we want to measure alcohol content, homebrewers measure the specific gravity of the batch. Since alcohol is less dense than water the specific gravity measurement will be lower after the fermentation process. Our goal will to measure the change in weight of a suspended mass inside the batch. To do so we want a device that measure force applied i.e weight. This is our load cell.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/loadcell.jpg&#34; alt=&#34;Load cell&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sparkfun load cell&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last device in this set is a Thermoelectric cooler, otherwise known as the Peltier plate. A temperature difference between two different metals will create a voltage difference and the converse is true as well. That means, by pumping electricity, we can reach teamperatures as low as -5C and 60C at once. For us this means a system that can heat and cool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/peltier.jpg&#34; alt=&#34;Peltier plate&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Peltier Plate&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;Our goal was to make sure all of our equipment was working and seeing if anything needed calibration. Then we wanted to create a test situation where we would use the peltier plate to cool water while wew measured the temperature and weight of the water.&lt;/p&gt;
+
+&lt;p&gt;One of the first drawbacks is that the Load cell did not work. Data was not being sent and the values we had were ridiculous.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/test1.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Load Cell Wiring&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The temperature sensors went much better.  The design of the sensor was plug &amp;amp; play and we were getting data fast and accurately in minutes. Chaining them in series took some time. We had to get to know each and everyone of them and their adresses but it worked and worked without a hitch it did.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/test2.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Two temperature sensors here measure ambient temperature and water temperature&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So when you have a pelteir plate one side heats up and the other side cools. So one issue is that the heat from the hot side will seep into the cold side thus losing efficiency. To rectify that we added a heatsinkand a fan to the hot side so the heat dissapates faster. On the other side we had it hooked up to a small container of water in which we ran through a pump.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/peltierconfig.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The system here shows the heatsink, fan and peltier and water unit.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the full setup that we have:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/fullsetup.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete configuration&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We run water through a small tank that gets cooled by the peliter plate. Simple! Well it rarely is.  The water wasn&amp;rsquo;t cooling. With numerous factors.&lt;/p&gt;
+
+&lt;p&gt;Our peltier plate wasnt heating at it maximum potential. The power supply we used is only rated for maximum of 3 amps. This only lowered our temperature on the cold side of the pletier plate to about 10°C&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ubcchemecar.com/img/blog/beer2/voltage.jpg&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Current limitations&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In our preliminary test we simply put the heatsink on top of the peltier plate and the plate to the water tank. This configuration does not transfer heat well at all due to the uneven surfaces.
+Lastly, The water cooling tank was too small for a flowrate that was too fast. The water didn&amp;rsquo;t have time to actually get cold before moving out of the tank.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;All in all the goal of testing or sensors was done. We are going to need a new laod cell or figure out whats wrong with this one. The temperature sensors work well. We just need to figure out some more design parameters before we make the real thing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2016: A year in review</title>
