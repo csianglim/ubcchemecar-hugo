@@ -187,12 +187,12 @@ paginate = 10
     role = "Graduate Student Advisor"
     blurb = "Vasilii is a PhD student in the Department of CHBE working on simulation of stimuli responsive polymers. Currently Vasilii is in his first year of involvement with Chem-E-Car as graduate advisor. He provides technical support for the team through his expertise in programming and materials engineering."
 
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/shayanrezaie"
-    image = "/img/team/shayan.jpg"
-    name = "Shayan Rezaie"
-    role = "Electrical Team"
-    blurb = "Shayan is a fifth year Engineering physics student who is responsible for designing the schematics and PCB for the Chem-E-Car . He is also involved in developing the code/drivers for the sensors used in this project. Before joining Chem-E-Car, Shayan worked for multiple companies as a hardware engineer developing software and schematics."
+#[[params.team]]
+#    linkedin = "https://ca.linkedin.com/in/shayanrezaie"
+#    image = "/img/team/shayan.jpg"
+#    name = "Shayan Rezaie"
+#    role = "Electrical Team"
+#    blurb = "Shayan is a fifth year Engineering physics student who is responsible for designing the schematics and PCB for the Chem-E-Car . He is also involved in developing the code/drivers for the sensors used in this project. Before joining Chem-E-Car, Shayan worked for multiple companies as a hardware engineer developing software and schematics."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/arjun-bhagwat-7b6345b6"
@@ -222,11 +222,11 @@ paginate = 10
     role = "Battery Lead"
     blurb = "Mani is a 4th year chemical engineering student with an interest in electrochemistry. He is working on creating alkaline batteries as an alternative to the zinc air batteries that are currently being used in the car. He has recently become very involved with Chem-E-Car and loves hanging out with the team."
 
-[[params.team]]
-    image = "/img/team/2015/tampriye.jpg"
-    name = "Tampriye Asawo"
-    role = "Logistics, Sponsorship"
-    blurb = "Tampriye is a third year Chemical Engineering student. She joined Chem-E-Car in 2015 and will be using SolidWorks to design the battery compartment and prepare an appropriate electrolyte solution. She is also involved in administrative duties such as promoting the team. In her spare time, Tampriye enjoys reading and hiking various BC trails."
+#[[params.team]]
+#    image = "/img/team/2015/tampriye.jpg"
+#    name = "Tampriye Asawo"
+#    role = "Logistics, Sponsorship"
+#    blurb = "Tampriye is a third year Chemical Engineering student. She joined Chem-E-Car in 2015 and will be using SolidWorks to design the battery compartment and prepare an appropriate electrolyte solution. She is also involved in administrative duties such as promoting the team. In her spare time, Tampriye enjoys reading and hiking various BC trails."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/dominic-bartlomowicz-149321ba"
@@ -235,12 +235,12 @@ paginate = 10
     role = "Creative Director"
     blurb = "I am a 4th year Chemical and Biological Engineering student. My areas of greatest interest lie in environmental and ecological preservation alongside medical advancements and disease control. As an individual with a strong international background, I am often enthusiastic to explore new parts of the world and gain alternate perspectives on human culture. In my free time, I am an avid musician and play multiple instruments in addition to exploring the depths of musical production."
 
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/claire-armour-a1681181"
-    image = "/img/team/2015/claire.jpg"
-    name = "Claire Armour"
-    role = "Sponsorship Lead"
-    blurb = "Claire joined Chem-E-Car in May 2015. As sponsorship officer, she is responsible for securing funding for the team. In her spare time, Claire volunteers with UBC Intramuralss. She enjoys playing the piano and questioning her degree."
+#[[params.team]]
+#    linkedin = "https://ca.linkedin.com/in/claire-armour-a1681181"
+#    image = "/img/team/2015/claire.jpg"
+#    name = "Claire Armour"
+#    role = "Sponsorship Lead"
+#    blurb = "Claire joined Chem-E-Car in May 2015. As sponsorship officer, she is responsible for securing funding for the team. In her spare time, Claire volunteers with UBC Intramuralss. She enjoys playing the piano and questioning her degree."
 
 
 [[params.team]]
@@ -411,12 +411,12 @@ paginate = 10
     role = "Junior Mechanical Team Member"
     blurb = ""
 
-[[params.team]]
-    linkedin = "https://ca.linkedin.com/in/filippo-botta-60b77198"
-    image = "/img/team/filippo.jpg"
-    name = "Filippo Botta"
-    role = "Battery Team"
-    blurb = "Filippo is a 4th year Chemical Engineer student. He joined Chem-E-Car this year to help with the research and development of a new battery unit. He is also involved in the design of the new battery casing. In his free time, he enjoys playing football and watching movies."
+#[[params.team]]
+#    linkedin = "https://ca.linkedin.com/in/filippo-botta-60b77198"
+#    image = "/img/team/filippo.jpg"
+#    name = "Filippo Botta"
+#    role = "Battery Team"
+#    blurb = "Filippo is a 4th year Chemical Engineer student. He joined Chem-E-Car this year to help with the research and development of a new battery unit. He is also involved in the design of the new battery casing. In his free time, he enjoys playing football and watching movies."
 
 # [[params.team]]
 #     linkedin = "https://ca.linkedin.com/in/solmon-dikran-8a2371117"
@@ -426,9 +426,9 @@ paginate = 10
 #     blurb = "Solomon is a second year chemical engineering student. He has joined the team hoping to be a part of the devlopment of the battery, and also start new side projects. In his spare time Solomon enjoys playing sports, and hanging out with friends."
 
 
-[[params.team]]
-    linkedin = ""
-    image = "/img/team/heya.jpg"
-    name = "Heya Gupta"
-    role = "Battery Team"
-    blurb = "Heya is a first year engineerig student who joined chem-e-car in 2016. She is eager to learn and hopes to join valuable experience by being apart of this team."
+#[[params.team]]
+#    linkedin = ""
+#    image = "/img/team/heya.jpg"
+#    name = "Heya Gupta"
+#    role = "Battery Team"
+#    blurb = "Heya is a first year engineerig student who joined chem-e-car in 2016. She is eager to learn and hopes to join valuable experience by being apart of this team."
