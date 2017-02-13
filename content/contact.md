@@ -5,7 +5,7 @@ id = "contact"
 
 # Looking for someone?
 
-### All General Inquiries: [info@ubcchemecar.com](mailto:info@ubcchemecar.com)
+### All General Inquiries: [team@ubcchemecar.com](mailto:team@ubcchemecar.com)
 
 ---
 

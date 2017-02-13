@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <style>
+   h3 {
+    font-size: 28px !important;
+   }
+  </style>
+
+  <body>
+
+    <div id="services">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+          <link rel="stylesheet" type="text/css" href="/css/component.css" />
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="main text-center">
+                          <div class="heading text-center">
+                              <h2>3D Printing</h2>
+                          </div>
+
+                          <h2>Cheapest service on campus, satisfaction guaranteed.</h2>
+
+                          <img src="/img/services/taz6.jpg" width="100%"/>
+
+                          <p class="lead">
+                            $0.25 per gram? Screw the bookstore. We have the best price on campus:
+                          </p>
+
+                          <div class="panel panel-primary">
+                            <div class="panel-body price">
+                              <h1><i class="fa fa-diamond" aria-hidden="true"></i> $0.20/gram <i class="fa fa-diamond" aria-hidden="true"></i></h1>
+                            </div>
+                          </div>
+
+                          <section class="bar background-white">
+                            <div class="container">
+                            <div class="col-md-12">
+                            <div class="row">
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-desktop"></i>
+                              </div>
+                              <h3>Need Some Help?</h3>
+                              <p>We offer free consultation and assistance with your CAD models (Solidworks, Inventor etc.).</p>
+                              </div>
+                            </div>
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-print"></i>
+                              </div>
+                              <h3>Affordability</h3>
+                              <p>At $0.20/gram, we offer the CHEAPEST service on campus. Send your .STL files and pick up your parts in the CHBE buiding.</p>
+                              </div>
+                            </div>
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-globe"></i>
+                              </div>
+                              <h3>Flexibility</h3>
+                              <p>Need something printed over the weekend or 3am at night? We can help. *Additional charges may apply if you REALLY need us to print it at 3am.</p>
+                              </div>
+                            </div>
+
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-clock-o"></i>
+                              </div>
+                              <h3>Turnaround Time</h3>
+                              <p>1 week or less depending on how busy the printer is, but if this is an emergency let us know and we will try our best to accomodate.</p>
+                              </div>
+                            </div>
+
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-cogs"></i>
+                              </div>
+                              <h3>Speed</h3>
+                              <p>Turnaround time also depends on several factors including how big your part(s) are and the print resolution, e.g. LOW - 3mm, MED - 1mm, HIGH - 0.3mm </p>
+                              </div>
+                            </div>
+
+                            <div class="col-md-4">
+                              <div class="box-simple">
+                              <div class="icon">
+                              <i class="fa fa-forward"></i>
+                              </div>
+                              <h3>Printer</h3>
+                              <p>We are using the LulzBot Taz 6. Printer specifications are <a href="https://www.lulzbot.com/store/printers/lulzbot-taz-6">available here</a></p>
+                              </div>
+                            </div>
+
+                            </div>
+                            </div>
+                            </div>
+                          </section>
+
+                          <h2>Need something printed? Send us your <b>.STL</b> files.</h2>
+                          <p>Please use mm for your dimensions. Pick up in the CHBE building. Cash on delivery. We issue invoices. </p>
+
+
+                          <div class="panel panel-primary">
+                            <div class="panel-body price">
+                              <h1>
+                                <a href="mailto:services@ubcchemecar.com">services@ubcchemecar.com</a>
+                              </h1>
+                            </div>
+                          </div>
+
+
+
+
+
+                        <div class="text-center">
+
+                        </div>
+                        <br>
+                        <hr>
+
+                        </div>
+                    </div>
+                </div> <!-- /.row -->
+            </div>
+
+
+        {{ partial "footer.html" . }}
+        </div>
+        <!-- /#content -->
+
+
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/js/modernizr.custom.js"></script>
+    <script src="/js/grid.js"></script>
+    <script>
+      $(function() {
+          Grid.init();
+      });
+    </script>
+  </body>
+</html>

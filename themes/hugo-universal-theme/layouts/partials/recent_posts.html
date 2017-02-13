@@ -39,8 +39,8 @@
                         <div class="content">
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                             <p class="author-category">
-                            {{ with .Params.author }}
-                            By <a href="#">{{ . }}</a>
+                            {{ if .Params.author }}
+                            By {{ delimit .Params.author ", " " and " }}
                             {{ end }}
                             on {{ .Date.Format "January 2, 2006" }}
                             </p>

@@ -100,7 +100,7 @@
 	float: left;
 	height: 100%;
 	overflow: hidden;
-	position: relative;	
+	position: relative;
 	padding: 0 20px 0 50px;
 }
 
@@ -192,5 +192,19 @@
 
 	.og-fullimg { display: none; }
 	.og-details { float: none; width: 100%; }
-	
+
+}
+
+.team-name{
+	margin-top: 20px;
+	font-weight: 300;
+	font-size: 11px;
+	padding: 0px 0 10px;
+	margin-bottom: 10px;
+}
+
+.price h1{
+	font-weight: bolder;
+	font-size: 45px;
+	font-family: monospace;
 }
