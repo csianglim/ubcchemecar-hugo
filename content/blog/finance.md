@@ -27,10 +27,9 @@ As with all engineering teams on campus, our activities are primarily funded by 
 We always keep an eye out for any other possible funding opportunities from UBC. It's also a good idea to make a note of deadlines for UBC funding sources, several of them operate on a monthly/biweekly application cycle, and some have a strict annual deadline. You should also start early in preparing your funding applications. Our team's funding paperwork preparation (i.e. proposal writing, budgets and annual reporting) takes up a significant amount of time from our main activities.
 
 ## Sponsorship
-From our experience, we find that businesses are usually reluctant to provide cash contributions, but will be more receptive to in-kind contributions and requests for specific items. Cold emailing and cold calls usually don't work for us (as of February 2017, but we are trying some new strategies this term!). We also find that our sponsorship requests are usually most successful when we get a chance to talk to the company's representatives face-to-face at conferences or local exhibitions (i.e. Maker Faire).
+From our experience, we find that businesses are usually reluctant to provide cash contributions, but will be more receptive to in-kind contributions and requests for specific items. Cold emailing and cold calls usually don't work for us (as of February 2017, but we are trying some new strategies this term!). We also find that our sponsorship requests are usually most successful when we get a chance to talk to the company's representatives face-to-face at conferences or local exhibitions (i.e. Maker Faire). We recommend preparing a [sponsorship package](http://www.ubcchemecar.com/sponsors/) before approaching sponsors and business. The APSC Development and Alumni Relations Office helps us with sponsorship strategies and issue official tax receipts, business acknowledgement letters and donor thank you messages: https://apsc.ubc.ca/giving/contact-us
 
-We'd recommend preparing a sponsorship package before approaching businesses (http://www.ubcchemecar.com/sponsors/). Big thanks to our APSC Development and Alumni Relations Office. They help us with sponsorship strategies and prepare official tax receipts, business acknowledgement letters and donor thank you messages: https://apsc.ubc.ca/giving/contact-us
-
+## Sponsors
 A big thanks to our awesome corporate sponsors this year:
 
 - [BotFeeder](https://www.botfeeder.ca/) for giving us enough 3D printing filaments to last a whole year
