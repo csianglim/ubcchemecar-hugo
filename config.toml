@@ -142,8 +142,8 @@ paginate = 10
     linkedin = "https://ca.linkedin.com/in/c-siang-lim-98535048"
     image = "/img/team/2017/siang.jpeg"
     name = "Siang Lim"
-    role = "Vice-Captain/Administration"
-    blurb = "Siang is in his final year of his degree. Siang manages the website, prepares team documents and manages the Chem-E-Car Brand. In his spare time... Just kidding, Siang does not believe in spare time."
+    role = "Vice-Captain"
+    blurb = "Siang is in his final year of his CHBE/CPSC degree and is very excited to be working on the team's new beer brewing project. Siang manages the website and the UBC Chem-E-Car brand and does a little bit of everything else on the team. In his spare time... Just kidding, Siang does not believe in spare time."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/ngai-to-lo-7a6750129"
@@ -156,28 +156,28 @@ paginate = 10
     linkedin = ""
     image = "/img/team/2015/marcCaruth.jpg"
     name = "Marc Caruth"
-    role = "Treasurer, Sponsorship"
+    role = "Treasurer"
     blurb = "Marc Caruth is currently in his 2nd year of involvement with Chem-E-Car. Marc is responsible for the financials including preparing the budget and reporting the actual results. In his free time, he enjoys skiing and hiking in the Vancouver mountains."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/andrew-may-1b31b796"
     image = "/img/team/2017/andy.jpg"
     name = "Andrew May"
-    role = "Senior Chemical Team Member"
+    role = "Flow Cell Project Lead"
     blurb = ""
 
 [[params.team]]
     linkedin = ""
     image = "/img/team/negar.jpg"
     name = "Negar Zaghi"
-    role = "Chemical Team Lead"
+    role = "Senior Chemical Lead, Safety Officer"
     blurb = ""
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/weiraybi"
     image = "/img/team/2017/ray.jpeg"
     name = "Ray Bi"
-    role = "Chemical Team Lead"
+    role = "Senior Chemical Lead"
     blurb = "Ray is an enthusiastic and detail-oriented 3rd year student in CHBE with high awareness of potential resource crisis and severe environment pollution. He finds it challenging, but exciting and enjoyable in proposing and optimizing stopping mechanisms and biofuel utilization methods. He is looking forward to devoting more time and energy into the delightful collaboration with colleagues in Chem-E-Car with similar pursuit and aspiration in the following years."
 
 [[params.team]]
@@ -198,7 +198,7 @@ paginate = 10
     linkedin = "https://ca.linkedin.com/in/arjun-bhagwat-7b6345b6"
     image = "/img/team/2017/arjun.jpg"
     name = "Arjun Bhagwat"
-    role = "Senior Battery Team Member"
+    role = "Finance Guy, Senior Battery Team Member"
     blurb = ""
 
 [[params.team]]
@@ -219,7 +219,7 @@ paginate = 10
     linkedin = "https://ca.linkedin.com/in/mani-massah-172907b0"
     image = "/img/team/mani.jpg"
     name = "Mani Massah"
-    role = "Battery Lead"
+    role = "Senior Battery Lead"
     blurb = "Mani is a 4th year chemical engineering student with an interest in electrochemistry. He is working on creating alkaline batteries as an alternative to the zinc air batteries that are currently being used in the car. He has recently become very involved with Chem-E-Car and loves hanging out with the team."
 
 # [[params.team]]
@@ -247,21 +247,21 @@ paginate = 10
     linkedin = "https://ca.linkedin.com/in/jordan-wright-53a606108"
     image = "/img/team/2015/jordan.jpg"
     name = "Jordan Wright"
-    role = "Junior Battery Lead"
+    role = "Currently On Co-op"
     blurb = "Jordan joined the battery team in 2015 to assist with the research and development of the new battery. He is a second year Chemical Engineering student with an interest in electrochemical cells and energy-related biotechnologies. He enjoys playing his guitar in his free time, as well as watching movies and playing League of Legends. Jordan is currently on a co-op term in Montreal."
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/victor-chiew-b7359185"
     image = "/img/team/2017/victor.jpeg"
     name = "Victor Chiew"
-    role = "Junior Team Co-captain"
+    role = "Junior Team Co-Captain"
     blurb = ""
 
 [[params.team]]
     linkedin = "https://ca.linkedin.com/in/abhishek-lekhi-171160105"
     image = "/img/team/2017/abhi.jpg"
     name = "Abhishek Lekhi"
-    role = "Junior Team Co-captain"
+    role = "Junior Team Co-Captain"
     blurb = "Second year CHBE student"
 
 [[params.team]]
@@ -275,7 +275,7 @@ paginate = 10
     linkedin = ""
     image = "/img/team/2017/sequoyah.jpeg"
     name = "Sequoyah Ezekiel"
-    role = "Finance and logistic officer"
+    role = "Finance and Logistic Officer"
     blurb = ""
 
 [[params.team]]
