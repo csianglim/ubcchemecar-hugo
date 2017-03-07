@@ -16,11 +16,13 @@
         {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
+                    <div class="col-md-1">
+                    </div>
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-listing-medium">
+                    <div class="col-md-8" id="blog-listing-medium">
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}
@@ -42,7 +44,7 @@
                                     <div class="clearfix">
                                         <p class="author-category">
                                           {{ if isset .Params "author" }}
-                                          By {{ delimit .Params.author ", " " and " }} 
+                                          By {{ delimit .Params.author ", " " and " }}
                                           {{ end }}
                                           {{ if isset .Params "categories" }}
                                           {{ if gt (len .Params.categories) 0 }}
@@ -84,7 +86,7 @@
                     <!-- *** RIGHT COLUMN ***
        _________________________________________________________ -->
 
-                    <div class="col-md-3">
+                    <div class="col-md-2">
 
                         <!-- *** MENUS AND WIDGETS *** -->
 

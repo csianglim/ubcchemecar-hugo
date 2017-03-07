@@ -2,6 +2,9 @@
 <html lang="en">
 
   {{ partial "head.html" . }}
+  <style>
+  @import url('https://fonts.googleapis.com/css?family=Roboto');
+  </style>
 
   <body>
 
@@ -13,9 +16,18 @@
 
         </header>
 
-        {{ partial "breadcrumbs.html" . }}
+        <div id="heading-breadcrumbs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>The UBC Chem-E-Car Blog</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-        <div id="content">
+
+        <div id="content font-roboto">
             <div class="container">
 
                 <div class="row">
@@ -23,8 +35,11 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-post">
-
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By {{ delimit .Params.author ", " " and " }} | {{ end }}{{ .Date.Format "January 2, 2006" }}</p>
+                        <div id="post-headers">
+                          <h1 class="text-center">{{ .Title }}</h1>
+                          <p class="author-blog-post text-uppercase text-center">{{ if .Params.author }}By <b>{{ delimit .Params.author ", " " and " }}</b> | {{ end }}{{ .Date.Format "January 2, 2006" }}</p>
+                          <hr />
+                        </div>
 
                         <div id="post-content">
                           {{ .Content }}
