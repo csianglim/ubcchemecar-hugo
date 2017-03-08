@@ -33,11 +33,14 @@
                 <div class="row">
 
                     <!-- *** LEFT COLUMN *** -->
-
-                    <div class="col-md-9" id="blog-post">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8" id="blog-post">
                         <div id="post-headers">
                           <h1 class="text-center">{{ .Title }}</h1>
-                          <p class="author-blog-post text-uppercase text-center">{{ if .Params.author }}By <b>{{ delimit .Params.author ", " " and " }}</b> | {{ end }}{{ .Date.Format "January 2, 2006" }}</p>
+                          <p class="author-blog-post text-center">{{ if .Params.author }}By <i>{{ delimit .Params.author ", " " and " }}</i> {{ end }}</p>
+                          <p class="date-blog-post text-center">
+                            {{ .Date.Format "January 2, 2006" }}
+                          </p>
                           <hr />
                         </div>
 
@@ -58,11 +61,11 @@
 
                     <!-- *** RIGHT COLUMN *** -->
 
-                    <div class="col-md-3">
+                    <div class="col-md-2">
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-                        {{ partial "sidebar.html" . }}
+                        <!-- {{ partial "sidebar.html" . }} -->
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
